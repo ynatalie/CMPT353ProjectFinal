@@ -15,7 +15,7 @@ def gettingLocation(loc,gmaps):
 
 def main():
     # private API key
-    gmaps = googlemaps.Client(key='AIzaSyDNT9dDi0YE_p3wM_Fdd88pL2KQNTYPYwI')
+    gmaps = googlemaps.Client(key='')
 
     #names of neighbourhood
     places = ["Arbutus Ridge","Downtown","Dunbar-Southlands","Fairview","Grandview-Woodland",
