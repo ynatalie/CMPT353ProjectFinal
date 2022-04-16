@@ -1,0 +1,1104 @@
+,name,amenity,lat,lon,neighbourhood
+0,Starbucks,cafe,49.260812,-123.125736,Fairview
+1,Salad Loop,fast_food,49.260953,-123.125704,Fairview
+7,The Cambie,pub,49.2831924,-123.1090499,Downtown
+13,McDonald's,fast_food,49.2347493,-123.1547249,Shaughnessy
+15,Waves,cafe,49.2635825,-123.1288364,Fairview
+24,Faculty Brewing,bar,49.268662,-123.1045109,Mount Pleasant
+25,Argo Cafe,cafe,49.2685718,-123.1045263,Mount Pleasant
+26,R & B Ale & Pizza House,pub,49.2672519,-123.1033949,Mount Pleasant
+30,Waves Coffee,cafe,49.2821554,-123.0998393,Downtown
+31,The Uncommon Cafe,cafe,49.2831728,-123.0935162,Strathcona
+32,Back and Forth Bar,bar,49.2821955,-123.1024011,Downtown
+33,Soft Peaks Ice Cream,ice_cream,49.2836044,-123.1036863,Downtown
+34,131 Water Kitchen & Bar,bar,49.284169,-123.1073434,Downtown
+35,Tim Hortons,cafe,49.2731066,-123.1007271,Downtown
+38,Chongqing on Robson,fast_food,49.2866244,-123.1282577,West End
+39,A Taste of India,fast_food,49.2867409,-123.1284213,West End
+40,Chatime,cafe,49.2866006,-123.1282087,West End
+41,Pok'e Time,fast_food,49.2865615,-123.1281828,West End
+42,Abode,cafe,49.2864194,-123.1272344,West End
+43,Shenanigans,pub,49.2866559,-123.1274985,West End
+49,The Wicklow Pub,pub,49.2687109,-123.1186399,Fairview
+50,Callister Tasting Room,bar,49.2821452,-123.0762115,Grandview-Woodland
+51,Powell Brewery Tasting Room,bar,49.2833626,-123.0757512,Grandview-Woodland
+52,Strange Fellows Tasting Room,bar,49.2724958,-123.0777288,Strathcona
+53,Exile,cafe,49.2814778,-123.1336029,West End
+54,Dublin Crossing Irish Pub,pub,49.2094419,-123.1161616,Marpole
+56,Starbucks,cafe,49.2873431,-123.1143935,Downtown
+57,Smokehouse Sandwich Co,fast_food,49.2842686,-123.1197597,Downtown
+58,Tim Hortons,cafe,49.2387806,-123.0316319,Renfrew-Collingwood
+59,Essentia Cafe,cafe,49.2641324,-123.1816701,Kitsilano
+61,Starbucks,cafe,49.2686141,-123.158778,Kitsilano
+62,Tim Hortons,cafe,49.2859029,-123.1249177,West End
+63,A&W,fast_food,49.2860548,-123.1251718,West End
+64,Subway,fast_food,49.2860886,-123.1252316,West End
+65,Starbucks,cafe,49.2876133,-123.1149238,Downtown
+66,Alibi Room,pub,49.2842068,-123.1002041,Downtown
+67,A&W,fast_food,49.2633356,-123.1144174,Mount Pleasant
+68,Elysian Coffee Roasters,cafe,49.2630977,-123.1172998,Fairview
+69,Starbucks,cafe,49.212995,-123.1401,Marpole
+78,Caffe Artigiano,cafe,49.2492264,-123.1007752,Riley Park
+79,Starbucks,cafe,49.2796195,-123.0999337,Downtown
+80,Tim Hortons,fast_food,49.2262222,-123.1287693,Oakridge
+81,Blenz,cafe,49.2327522,-123.1172852,Oakridge
+82,Gong Cha,cafe,49.2792232,-123.1168269,Downtown
+88,Panago Pizza,fast_food,49.2725297,-123.0562043,Hastings-Sunrise
+104,Dairy Queen,fast_food,49.2567827,-123.184916,Dunbar-Southlands
+107,Subway,fast_food,49.29089,-123.1342671,West End
+110,Freshslice,fast_food,49.2081902,-123.1401346,Marpole
+111,Donair Spot,fast_food,49.208235,-123.1401305,Marpole
+116,Freshslice Pizza,fast_food,49.2312042,-123.0657754,Victoria-Fraserview
+127,Freshslice Pizza,fast_food,49.2630367,-123.1013042,Mount Pleasant
+134,McDonald's,fast_food,49.2081236,-123.1407827,Marpole
+136,McDonald's,fast_food,49.265883,-123.0242786,Hastings-Sunrise
+139,Subway,fast_food,49.2467974,-123.068237,Kensington-Cedar Cottage
+145,McDonald's,fast_food,49.233088,-123.0657292,Kensington-Cedar Cottage
+146,Kent's Kitchen,fast_food,49.233102,-123.0659438,Kensington-Cedar Cottage
+147,Hometown Pizza,fast_food,49.2179175,-123.0766614,Victoria-Fraserview
+148,Papa Dave's Pizza Indian Cuisine,fast_food,49.2256886,-123.0777235,Sunset
+149,McDonald's,fast_food,49.2182564,-123.0773813,Sunset
+150,East Side Craft House,pub,49.2329149,-123.0761197,Kensington-Cedar Cottage
+151,KFC,fast_food,49.2256116,-123.0777236,Sunset
+152,McDonald's,fast_food,49.2633884,-123.1160798,Fairview
+153,Tim Hortons,cafe,49.2635191,-123.1231332,Fairview
+154,Starbucks,cafe,49.2632049,-123.1070497,Mount Pleasant
+155,Fatburger,fast_food,49.2632776,-123.1106188,Mount Pleasant
+156,,pub,49.2632663,-123.110529,Mount Pleasant
+157,Subway,fast_food,49.2633362,-123.113621,Mount Pleasant
+158,A&W,fast_food,49.2634886,-123.1215189,Fairview
+159,Starbucks,cafe,49.2673455,-123.112992,Mount Pleasant
+160,Dairy Queen,fast_food,49.2390725,-123.0650033,Kensington-Cedar Cottage
+161,La Casa Gelato,ice_cream,49.2769275,-123.0815616,Strathcona
+163,McDonald's,fast_food,49.2906218,-123.1338516,West End
+165,Starbucks,cafe,49.235221,-123.1157169,Riley Park
+218,Canra Plus,fast_food,49.2798847,-123.1068032,Downtown
+219,Ryo,fast_food,49.2799835,-123.1065637,Downtown
+220,India’s Flavour,fast_food,49.2800531,-123.1064691,Downtown
+221,Kazoku,fast_food,49.2800925,-123.1064315,Downtown
+238,McDonald's,fast_food,49.2808969,-123.1073143,Downtown
+239,Caveman Cafe,cafe,49.2808098,-123.1070156,Downtown
+240,Shiny Tea,bar,49.2802068,-123.1068483,Downtown
+241,Taco Time,fast_food,49.2799281,-123.1066781,Downtown
+242,Bubble King,fast_food,49.2799047,-123.106734,Downtown
+243,Tina,fast_food,49.2799553,-123.1066209,Downtown
+244,Thai Town,fast_food,49.2800166,-123.1065184,Downtown
+245,Wow Thai Food,fast_food,49.2801753,-123.1063639,Downtown
+246,Bali Thai,fast_food,49.2802143,-123.1063341,Downtown
+247,Giant Panda,fast_food,49.2802598,-123.1063002,Downtown
+250,Off The Rail Tasting Room,bar,49.2777606,-123.0760415,Grandview-Woodland
+251,Bomber Tasting Room,bar,49.2774745,-123.0745168,Grandview-Woodland
+257,The Wine Bar,bar,49.2733358,-123.1195188,Downtown
+258,Yummy to Go,fast_food,49.28645,-123.1403248,West End
+259,Tim Hortons,cafe,49.2865567,-123.1410036,West End
+260,Fraser Valley Juice,fast_food,49.2726318,-123.1353692,Fairview
+261,Pizza Pzazz,fast_food,49.2726607,-123.1353169,Fairview
+263,Princeton Pub,pub,49.2849397,-123.0649633,Grandview-Woodland
+270,Bay Sushi Cafe,fast_food,49.2821283,-123.1164589,Downtown
+271,Kung Fu Noodle,fast_food,49.2820949,-123.1165023,Downtown
+272,Pokérrito,fast_food,49.2826167,-123.1151176,Downtown
+273,Dae Ji,fast_food,49.282708,-123.1147514,Downtown
+274,Sushi Home,fast_food,49.2826109,-123.1146226,Downtown
+275,Big Bowl Rice,fast_food,49.2825668,-123.1145555,Downtown
+276,Pourhouse,pub,49.2841314,-123.1083829,Downtown
+284,Cecil Bar,bar,49.2756868,-123.1281101,Downtown
+285,Soho,bar,49.2741305,-123.1241126,Downtown
+286,Yaletown Distilling Company,bar,49.2753903,-123.1216407,Downtown
+287,Living Produce Aisle,fast_food,49.2750527,-123.1221518,Downtown
+288,The Distillery Bar,bar,49.2752508,-123.1212681,Downtown
+289,Mister,fast_food,49.2751119,-123.1214624,Downtown
+293,New Amsterdam Cafe,cafe,49.2829831,-123.1098733,Downtown
+294,The Cascade,bar,49.2616715,-123.1007497,Mount Pleasant
+295,Bean Around The World,cafe,49.2624382,-123.1007191,Mount Pleasant
+296,Pizza 604,fast_food,49.263303,-123.1007167,Mount Pleasant
+297,Kafka's Coffee and Tea,cafe,49.2624451,-123.1012839,Mount Pleasant
+298,Sunny Spot,cafe,49.2622376,-123.1012945,Mount Pleasant
+299,Yum Sweet Shop,ice_cream,49.2481556,-123.1008994,Riley Park
+312,McDonald's,fast_food,49.2634479,-123.1380669,Fairview
+333,A&W,fast_food,49.2267483,-123.128868,Oakridge
+335,Gringo,bar,49.2832515,-123.105379,Downtown
+336,Harvey's,fast_food,49.2796709,-123.1221195,Downtown
+337,Subway,fast_food,49.2332678,-123.1012746,Riley Park
+338,Tim Hortons,cafe,49.2347512,-123.1582643,Arbutus-Ridge
+339,Starbucks,cafe,49.2729377,-123.0997917,Strathcona
+340,A&W,fast_food,49.2739585,-123.0980509,Strathcona
+342,White Spot Triple O's,fast_food,49.2730825,-123.1039764,Downtown
+343,Starbucks,cafe,49.26437,-123.1674354,Kitsilano
+344,Urban Sushi,fast_food,49.2838013,-123.1158299,Downtown
+345,Caffe Artigiano,cafe,49.283684,-123.1159815,Downtown
+346,Trees Coffee,cafe,49.2848065,-123.1143227,Downtown
+347,Creme de la Crumb,cafe,49.2847372,-123.1144476,Downtown
+360,Dubh Linn Gate,pub,49.2714968,-123.1006411,Mount Pleasant
+361,A&W,fast_food,49.2730334,-123.1003915,Downtown
+371,Café Crêpe,cafe,49.2814148,-123.1194673,Downtown
+372,,cafe,49.2881125,-123.1146371,Downtown
+449,Chasers,cafe,49.2760414,-123.1196355,Downtown
+450,Lime & Moon Pie Company,cafe,49.2756829,-123.120168,Downtown
+451,Subway,fast_food,49.2764887,-123.1189668,Downtown
+452,Coffee House,cafe,49.2764101,-123.1190813,Downtown
+454,Tap & Barrel,pub,49.2898003,-123.1168924,Downtown
+465,Johnnie Fox's,bar,49.2790349,-123.1235947,Downtown
+471,Blenz,cafe,49.2861774,-123.1269715,West End
+472,Metro News,vending_machine,49.2577236,-123.1650747,Kitsilano
+473,Metro News,vending_machine,49.2577236,-123.1650881,Kitsilano
+474,Homes and Land Magazine,vending_machine,49.2577245,-123.1651002,Kitsilano
+475,Pleasant Beans Coffee House,cafe,49.2638449,-123.1000453,Mount Pleasant
+476,Nelson the Seagull,cafe,49.2821626,-123.1045058,Downtown
+477,Blenz Coffee,cafe,49.2870382,-123.1181012,Downtown
+480,Book Kyung Ban Jeoun & BK Karaoke,fast_food,49.2898216,-123.1332015,West End
+482,The Alley,fast_food,49.2807848,-123.124856,Downtown
+490,Roots Café,cafe,49.2255047,-123.1013836,Sunset
+491,The Cockpit,cafe,49.290443,-123.1176585,Downtown
+492,Subway,fast_food,49.2716748,-123.0947341,Strathcona
+493,Taco Del Mar,fast_food,49.2717323,-123.0948814,Strathcona
+507,Paragon Pizza,fast_food,49.2208148,-123.0656937,Victoria-Fraserview
+508,Prohibition,bar,49.2837396,-123.1184966,Downtown
+510,Milk & Sugar Cafe,cafe,49.233308,-123.0338835,Renfrew-Collingwood
+511,Subway,fast_food,49.2372522,-123.0325583,Renfrew-Collingwood
+512,Sunflower Bubble Tea,cafe,49.2380309,-123.0322916,Renfrew-Collingwood
+514,Subway,fast_food,49.2637503,-123.0242122,Renfrew-Collingwood
+516,Milano Coffee Roasters,cafe,49.2909208,-123.1365182,West End
+517,Breka Bakery & Cafe,cafe,49.2913209,-123.135935,West End
+518,Blenz Coffee,cafe,49.2902367,-123.1375735,West End
+519,Hui Lau Shan,cafe,49.2904186,-123.1372778,West End
+521,Opa! Of Greece,fast_food,49.2833353,-123.1174336,Downtown
+523,Little Caesars,fast_food,49.2308106,-123.0908083,Sunset
+527,Loving Hut Express food van,fast_food,49.2740786,-123.1213858,Downtown
+533,Starbucks,cafe,49.2846042,-123.1245931,West End
+536,Aphrodite's Organic Cafe,cafe,49.2687642,-123.183797,Kitsilano
+537,Blenz Coffee,cafe,49.268464,-123.1854523,Kitsilano
+540,The Shameful Tiki,bar,49.2468517,-123.1009139,Riley Park
+542,Hollywood North,bar,49.2799921,-123.1197031,Downtown
+543,Numero Uno Pizza,fast_food,49.2772057,-123.1265215,Downtown
+544,Starbucks,cafe,49.2789586,-123.1212246,Downtown
+545,Nero Belgian Waffle Bar,cafe,49.2783848,-123.1220442,Downtown
+546,Sushi Howe,fast_food,49.277516,-123.1270838,Downtown
+548,Dogwood Lounge,bar,49.2098852,-123.0817139,Sunset
+549,Cinema Public House,pub,49.2803131,-123.1216797,Downtown
+550,Pizza Garden,fast_food,49.2801553,-123.1209311,Downtown
+551,Donair King,fast_food,49.2794471,-123.1300198,West End
+554,Railway Club,bar,49.2829389,-123.115118,Downtown
+557,Homer St Cafe and Bar,cafe,49.2784178,-123.1182179,Downtown
+558,Fat Burger,fast_food,49.2802263,-123.1307093,West End
+564,Nemesis,cafe,49.282764,-123.1102832,Downtown
+567,True Confections,cafe,49.290792,-123.1362563,West End
+576,Yale Hotel,pub,49.2759064,-123.1278016,Downtown
+593,Moja Coffee,cafe,49.2747084,-123.0692817,Grandview-Woodland
+601,Quiznos,fast_food,49.2871644,-123.1197099,Downtown
+604,Baker & Table,cafe,49.2263571,-123.0905461,Sunset
+605,Tim Hortons,fast_food,49.2311162,-123.0904218,Sunset
+613,KFC,fast_food,49.2434728,-123.0621724,Kensington-Cedar Cottage
+614,El Caracol Mexican Cafe,cafe,49.2375315,-123.0650461,Kensington-Cedar Cottage
+615,Starbucks,cafe,49.2251239,-123.0535019,Victoria-Fraserview
+616,Papa's Gourmet Pizza,fast_food,49.2581579,-123.1009455,Mount Pleasant
+617,Church's Chicken,fast_food,49.2325226,-123.090106,Sunset
+618,Waves Coffee House,cafe,49.2882295,-123.1233339,Downtown
+619,Wick's Cafe,cafe,49.2040556,-123.134982,Marpole
+620,Uncle Fatih's Pizza,fast_food,49.2792588,-123.1074257,Downtown
+621,Freshslice,fast_food,49.2793502,-123.1078358,Downtown
+622,Something Healthy,fast_food,49.2791132,-123.1074224,Downtown
+623,Starbucks,cafe,49.2799372,-123.1073562,Downtown
+624,Subway,fast_food,49.2284031,-123.0908169,Sunset
+626,Dijo's Pizza,fast_food,49.2808303,-123.045249,Hastings-Sunrise
+627,Subway,fast_food,49.2808213,-123.0457204,Hastings-Sunrise
+628,PressBox Pub,pub,49.2813339,-123.0454428,Hastings-Sunrise
+635,Luppolo Tasting Room,bar,49.2769121,-123.0805868,Strathcona
+636,Little Caesars,fast_food,49.2195297,-123.0408142,Killarney
+644,Sweet Cherubim,cafe,49.2746801,-123.0698694,Grandview-Woodland
+652,Pallet Coffee Roasters,cafe,49.25002,-123.0763241,Kensington-Cedar Cottage
+653,KFC,fast_food,49.262628,-123.0874661,Mount Pleasant
+654,Metro Cafe Bar,cafe,49.2353139,-123.0381182,Renfrew-Collingwood
+656,Tandem Bike Cafe,cafe,49.2571435,-123.1202522,Fairview
+657,Rosemary Bagels,fast_food,49.2723618,-123.0693179,Grandview-Woodland
+658,Uva,bar,49.279512,-123.1204403,Downtown
+661,Big Rock Urban Eatery,pub,49.267356,-123.1110469,Mount Pleasant
+666,Fayuca,bar,49.2767582,-123.1201461,Downtown
+688,Railtown Cafe,cafe,49.2802382,-123.1232584,Downtown
+690,The Portside Pub,pub,49.2835624,-123.1038811,Downtown
+696,Tap & Barrel,pub,49.2717552,-123.1060666,Mount Pleasant
+698,Starbucks,cafe,49.2093679,-123.1165285,Marpole
+699,Subway,fast_food,49.2094689,-123.1164992,Marpole
+700,Elysian Coffee Roasters,cafe,49.2670223,-123.1451203,Fairview
+708,Blenz Coffee,cafe,49.2859301,-123.1182815,Downtown
+710,Bubble World Tea House,cafe,49.2873653,-123.1287891,West End
+712,Earnest Ice Cream,ice_cream,49.2795862,-123.0749371,Grandview-Woodland
+715,Subway,fast_food,49.2484965,-123.0899419,Kensington-Cedar Cottage
+716,Prado Cafe,cafe,49.2474538,-123.0900006,Kensington-Cedar Cottage
+717,JJ Bean Coffee Roasters,cafe,49.246691,-123.0903554,Riley Park
+720,Delanys Coffee,cafe,49.2882578,-123.1405916,West End
+721,Cacao 70,cafe,49.2889364,-123.1395296,West End
+722,Burger King,fast_food,49.2889429,-123.1390161,West End
+723,iGame Arena,cafe,49.2327351,-123.023744,Renfrew-Collingwood
+724,Sugar Loop by Westcoast Darts Cafe,cafe,49.2320493,-123.0262792,Killarney
+725,McDonald's,fast_food,49.2060719,-123.125509,Marpole
+727,Boba Monster,cafe,49.2321981,-123.0903909,Sunset
+728,Green Leaf Bubble Tea,cafe,49.2322594,-123.0903936,Sunset
+729,Starbucks,cafe,49.2251518,-123.0904703,Sunset
+730,Innocent Ice Cream,ice_cream,49.240749,-123.1016806,Riley Park
+731,Falafel Cafe,cafe,49.2505192,-123.0764488,Kensington-Cedar Cottage
+732,Domino's,fast_food,49.2510662,-123.0786825,Kensington-Cedar Cottage
+733,BT Cafe,cafe,49.2542839,-123.0850295,Kensington-Cedar Cottage
+734,Matchstick Coffee Roasters,cafe,49.2572851,-123.0901365,Mount Pleasant
+742,Starbucks,cafe,49.2105091,-123.1069,Marpole
+746,Panago Pizza,fast_food,49.231433,-123.0316383,Killarney
+750,Cafe Medina,cafe,49.2805588,-123.1169062,Downtown
+751,The Belmont,bar,49.2790584,-123.1230287,Downtown
+752,Beyond Coffee,cafe,49.2809406,-123.1269099,West End
+753,Uncle Fatih's Pizza,fast_food,49.2789073,-123.1221767,Downtown
+754,McDonald's,fast_food,49.280548,-123.1213662,Downtown
+755,Five Guys,fast_food,49.28109,-123.1190968,Downtown
+756,Subway,fast_food,49.2616851,-123.0700316,Kensington-Cedar Cottage
+757,Blenz Coffee,cafe,49.2625624,-123.0695251,Grandview-Woodland
+758,Brothers,cafe,49.2800297,-123.1086595,Downtown
+759,Musette Caffè,cafe,49.2805834,-123.1028286,Downtown
+760,A&W,fast_food,49.2831516,-123.1154178,Downtown
+761,Starbucks,cafe,49.2820489,-123.118486,Downtown
+762,Finch's,cafe,49.2827779,-123.1116632,Downtown
+763,Hungry Guys,fast_food,49.2792876,-123.1226649,Downtown
+765,Juliet's Cafe,cafe,49.2725841,-123.1479944,Kitsilano
+766,Flying Wedge Pizza,fast_food,49.2725937,-123.1484867,Kitsilano
+767,Planet Veg,fast_food,49.2725847,-123.1487051,Kitsilano
+768,Vera's Burger Shack,fast_food,49.2725886,-123.1483117,Kitsilano
+769,Panne Rizo,cafe,49.2725841,-123.1486132,Kitsilano
+770,Bean Around the World,cafe,49.2725892,-123.1488841,Kitsilano
+771,Al Basha,fast_food,49.2725828,-123.1485578,Kitsilano
+772,Corduroy,pub,49.2725892,-123.1487921,Kitsilano
+773,Siegel's Bagels,fast_food,49.2727038,-123.1472939,Kitsilano
+774,Starbucks,cafe,49.2733132,-123.11993,Downtown
+775,Steamworks,pub,49.2848692,-123.1109875,Downtown
+776,YiFang Taiwan Fruit Tea,cafe,49.290842,-123.1342117,West End
+782,Nimby Burger,fast_food,49.2723148,-123.1551667,Kitsilano
+783,Local Public Eatery,pub,49.272446,-123.1553117,Kitsilano
+784,The Ellis,pub,49.2716021,-123.155352,Kitsilano
+785,Subway,fast_food,49.2352507,-123.1557393,Arbutus-Ridge
+786,Secret Garden Tea Company,cafe,49.2354571,-123.1560864,Arbutus-Ridge
+787,Comebuy Bubble Tea,cafe,49.2379505,-123.1556108,Arbutus-Ridge
+788,Caffè Artigiano,cafe,49.2344956,-123.1573182,Kerrisdale
+789,Legato Cafe,cafe,49.2344715,-123.1593632,Kerrisdale
+790,One Bowl,cafe,49.2350698,-123.1615131,Arbutus-Ridge
+791,Starbucks,cafe,49.2344778,-123.1605904,Kerrisdale
+792,NOURISH,cafe,49.2633833,-123.1866515,West Point Grey
+793,Subway,fast_food,49.263878,-123.205001,West Point Grey
+794,Tim Hortons,cafe,49.2639234,-123.2061777,West Point Grey
+795,Figaro Café + Bakery,cafe,49.2636669,-123.2051855,West Point Grey
+796,Darcy's Cafe,cafe,49.2636844,-123.2081906,West Point Grey
+800,Chipotle,fast_food,49.2630462,-123.1159688,Fairview
+803,Bellaggio Café & Gelateria,cafe,49.2887562,-123.1150926,Downtown
+806,A&W,fast_food,49.2608512,-123.1161648,Fairview
+813,Fit Camp Foods,fast_food,49.2806424,-123.1312774,West End
+815,3 Quarters Full Cafe,cafe,49.2885009,-123.1391648,West End
+830,Donnelan's,pub,49.2782909,-123.1241919,Downtown
+834,,vending_machine,49.2382584,-123.0321227,Renfrew-Collingwood
+835,,vending_machine,49.2381936,-123.0320784,Renfrew-Collingwood
+836,,vending_machine,49.2380467,-123.0316644,Renfrew-Collingwood
+837,,vending_machine,49.2380347,-123.0318126,Renfrew-Collingwood
+843,Quantum Coffee,cafe,49.2850193,-123.1145937,Downtown
+844,The Magnet,pub,49.2824055,-123.1111441,Downtown
+845,Maple Leaf Delicatessen Coffe Shop,cafe,49.2787028,-123.1302045,West End
+846,Sushi Maki,fast_food,49.2807616,-123.1248877,Downtown
+851,Starbucks,cafe,49.2916513,-123.1354557,West End
+852,Sylvia's Bar,bar,49.2885782,-123.1426441,West End
+854,Fringe,pub,49.26404,-123.174703,Kitsilano
+855,Neverland Tea Salon,cafe,49.2640168,-123.1733645,Kitsilano
+856,Quiznos,fast_food,49.2639753,-123.1713499,Kitsilano
+857,Yagger's Kits,pub,49.2639533,-123.1696182,Kitsilano
+858,Uncle Faith's Pizza,fast_food,49.2639335,-123.1678232,Kitsilano
+859,Bella Pizza,fast_food,49.2632325,-123.1364612,Fairview
+860,Barista Cafe,cafe,49.2632564,-123.1276427,Fairview
+861,Subway,fast_food,49.2632444,-123.1255405,Fairview
+862,Subway,fast_food,49.2628323,-123.1032243,Mount Pleasant
+863,A&W,fast_food,49.2625523,-123.0693702,Grandview-Woodland
+864,Booster Juice,fast_food,49.2628756,-123.0695249,Grandview-Woodland
+865,Megabite Pizza,fast_food,49.2627967,-123.0693624,Grandview-Woodland
+866,Super Great Pizza,fast_food,49.238319,-123.0323183,Renfrew-Collingwood
+867,Freshslice Pizza,fast_food,49.2266714,-123.0905213,Sunset
+868,L & G Bubble Tea,cafe,49.2317166,-123.0904136,Sunset
+872,Subway,fast_food,49.2110929,-123.1407058,Marpole
+873,Relish,pub,49.2802411,-123.1250614,Downtown
+874,Red Burrito,fast_food,49.2807931,-123.1191954,Downtown
+875,Java Cat,cafe,49.2817816,-123.1117459,Downtown
+876,Library Square Public House,pub,49.2800328,-123.1146849,Downtown
+877,Colony,bar,49.2590227,-123.1008347,Mount Pleasant
+878,Truffles,cafe,49.2777827,-123.1268532,Downtown
+879,Waves Coffee,cafe,49.2838195,-123.1118877,Downtown
+880,Peqish,fast_food,49.2833711,-123.1145504,Downtown
+881,Kita no Donburi,fast_food,49.2845542,-123.1133241,Downtown
+882,Pizza Vancouver,fast_food,49.2834954,-123.1149019,Downtown
+883,Starbucks,cafe,49.2846244,-123.1218388,West End
+884,Meat & Bread,fast_food,49.282623,-123.109344,Downtown
+885,Fresh Bowl,fast_food,49.2827131,-123.1093153,Downtown
+887,Chewies,pub,49.270944,-123.1552107,Kitsilano
+889,Cafe Bel,cafe,49.2833178,-123.1191002,Downtown
+891,I.ce Queen,ice_cream,49.264266,-123.1718556,Kitsilano
+899,My Frosty,cafe,49.2690014,-123.0445183,Hastings-Sunrise
+900,Trees Organic,cafe,49.2634545,-123.1407716,Fairview
+901,Blenz Coffee,cafe,49.2636205,-123.1502883,Kitsilano
+902,Hearts & Vine Cafe,cafe,49.2641802,-123.1574706,Kitsilano
+903,The Regal Beagle,pub,49.2640449,-123.1567706,Kitsilano
+904,Good Earth Coffeehouse,cafe,49.2642829,-123.1860874,West Point Grey
+908,Kokomo,cafe,49.2678638,-123.1573505,Kitsilano
+909,IGA Bistro,cafe,49.2637652,-123.1573383,Kitsilano
+915,Thierry,cafe,49.2847804,-123.1227707,West End
+928,Chatime,cafe,49.2274296,-123.1168286,Oakridge
+929,Truck Stop Diner,pub,49.2688201,-123.0967506,Strathcona
+930,Yeh!,fast_food,49.2896711,-123.1384396,West End
+931,A&W,fast_food,49.2896102,-123.1385336,West End
+932,Peaked Pies,fast_food,49.289715,-123.1383784,West End
+933,Panago,fast_food,49.2897561,-123.1383258,West End
+934,Tim Hortons,cafe,49.2893869,-123.1388596,West End
+939,Nosherie,cafe,49.2817211,-123.1165551,Downtown
+940,Truffles Café,cafe,49.239521,-123.1286511,Shaughnessy
+944,Bella Gelateria,ice_cream,49.2736081,-123.1185044,Downtown
+947,Shebeen Whiskey House,bar,49.2828822,-123.1037866,Downtown
+948,Irish Heather,pub,49.2828919,-123.1040897,Downtown
+950,JJ Bean,cafe,49.2550997,-123.1153648,South Cambie
+951,Rain or Shine Ice Cream,ice_cream,49.2551419,-123.1148934,Riley Park
+957,24 Train Express Noodle House,fast_food,49.2782532,-123.1218162,Downtown
+958,La Belle Patate,fast_food,49.2820553,-123.1335652,West End
+959,Sushi Den,fast_food,49.279559,-123.1078428,Downtown
+960,Noodle Box,fast_food,49.2819445,-123.1076316,Downtown
+961,Tacomio,fast_food,49.2816397,-123.1075252,Downtown
+962,Vegan Cave,cafe,49.2818025,-123.1074624,Downtown
+963,Nectar,cafe,49.2819026,-123.1075035,Downtown
+964,Prado,cafe,49.2818951,-123.1074453,Downtown
+972,Edel Express,cafe,49.2862256,-123.1161579,Downtown
+973,Bonchaz,cafe,49.2835903,-123.111511,Downtown
+974,Caffè Artigiano,cafe,49.2856543,-123.1147275,Downtown
+975,CoCo Fresh Tea & Juice,cafe,49.2845132,-123.114372,Downtown
+976,Social Crust,cafe,49.2825674,-123.1113699,Downtown
+977,Kyzock - House of Sushi Bowl,fast_food,49.2838332,-123.113312,Downtown
+978,Me Crêpes,fast_food,49.2839646,-123.1135104,Downtown
+979,2001 Flavors,fast_food,49.2840103,-123.1135799,Downtown
+980,Yagger's,bar,49.283201,-123.1123664,Downtown
+981,Moii Cafe,cafe,49.2835821,-123.1129034,Downtown
+982,Koala Kebabs,fast_food,49.2836356,-123.1130258,Downtown
+983,Cham Mani,fast_food,49.2837054,-123.1131194,Downtown
+984,Sushi Spin Roll,fast_food,49.2837386,-123.1131665,Downtown
+985,Fresh Slice,fast_food,49.2838178,-123.1132808,Downtown
+994,Starbucks,cafe,49.2693966,-123.1029581,Mount Pleasant
+995,Brewhall,pub,49.2694368,-123.103525,Mount Pleasant
+996,Mario's Gelato,ice_cream,49.2699059,-123.1030986,Mount Pleasant
+997,The Federal Store,cafe,49.2619429,-123.103196,Mount Pleasant
+998,,vending_machine,49.2439382,-123.0452788,Renfrew-Collingwood
+999,,vending_machine,49.2439667,-123.0453629,Renfrew-Collingwood
+1000,,vending_machine,49.2444248,-123.0461362,Renfrew-Collingwood
+1001,,vending_machine,49.2442355,-123.0463355,Renfrew-Collingwood
+1008,Blenz,cafe,49.2796325,-123.1078508,Downtown
+1009,The Pint,pub,49.2812723,-123.1077237,Downtown
+1014,JJ Bean,cafe,49.2846897,-123.0652949,Grandview-Woodland
+1015,,vending_machine,49.2421002,-123.1134996,Riley Park
+1019,,vending_machine,49.2750811,-123.1396933,Kitsilano
+1020,Harvest Community Foods,cafe,49.2777456,-123.0980833,Strathcona
+1021,Terra Breads,cafe,49.2714358,-123.1068353,Mount Pleasant
+1026,Pallet Coffee Roasters,cafe,49.2817332,-123.0638566,Grandview-Woodland
+1027,platform 7 Coffee,cafe,49.281298,-123.0574622,Grandview-Woodland
+1028,Railtown Café,cafe,49.2850466,-123.0954451,Strathcona
+1029,Ed’s Daily,cafe,49.2828397,-123.089684,Strathcona
+1030,Tim Hortons,cafe,49.2860889,-123.1163367,Downtown
+1031,Blackbird,pub,49.2851463,-123.1184912,Downtown
+1032,Storm Crow Tavern,bar,49.2728332,-123.069737,Grandview-Woodland
+1033,Take Five,cafe,49.2768852,-123.0754328,Grandview-Woodland
+1037,Red Accordion,pub,49.2902748,-123.1317492,West End
+1038,Donair Dude,fast_food,49.2822367,-123.1092038,Downtown
+1039,Tim Hortons,cafe,49.2832205,-123.1155257,Downtown
+1040,Starbucks,cafe,49.2829884,-123.1156531,Downtown
+1041,Subway,fast_food,49.2766649,-123.1272005,Downtown
+1042,The Morrissey,bar,49.2768995,-123.1268568,Downtown
+1043,Subway,fast_food,49.2823756,-123.1084859,Downtown
+1044,Moose's Down Under,pub,49.2855675,-123.1165611,Downtown
+1045,Yummy Pizza,fast_food,49.2813411,-123.1329394,West End
+1046,The Capital,bar,49.2814237,-123.1330616,West End
+1047,Los Amigos Taqueria,fast_food,49.2806117,-123.1318361,West End
+1048,Megabite Pizza,fast_food,49.2805693,-123.1317681,West End
+1049,Vista Digital,internet_cafe,49.2804768,-123.1316113,West End
+1050,Donair Dude,fast_food,49.2813671,-123.1329957,West End
+1053,Portland Craft,bar,49.2506841,-123.1012022,Riley Park
+1057,Off the tracks bar & bistro,pub,49.2702595,-123.1340523,Fairview
+1058,Milano Cafe,cafe,49.2637188,-123.1087031,Mount Pleasant
+1060,The Lamplighter Public House,pub,49.2837114,-123.106243,Downtown
+1062,Porto Café,cafe,49.2656312,-123.1150585,Fairview
+1065,Starbucks,cafe,49.2485436,-123.1266354,South Cambie
+1066,Boaguette Vietnamese Bistro,fast_food,49.287377,-123.1414211,West End
+1071,The Only Cafe,cafe,49.2681226,-123.1656481,Kitsilano
+1076,Lions Pub,pub,49.2869412,-123.1148363,Downtown
+1077,Ovaltine Cafe,cafe,49.2814941,-123.0984116,Strathcona
+1083,JJ Bean,cafe,49.2865106,-123.1258963,West End
+1084,Breka Bakery & Café,cafe,49.285665,-123.1272801,West End
+1085,Cafe Rico,cafe,49.2868188,-123.1285213,West End
+1086,Tim Hortons,cafe,49.2870412,-123.1283167,West End
+1087,Kino Cafe Flamenco Tapas Bar,bar,49.2543533,-123.1149873,Riley Park
+1088,Biercraft,pub,49.2558057,-123.1153793,South Cambie
+1099,East Van Roasters,cafe,49.282101,-123.1045134,Downtown
+1102,Starbucks,cafe,49.2885656,-123.1177149,Downtown
+1104,Blenz Coffee,cafe,49.2810287,-123.118654,Downtown
+1110,Xing Fu Tang,cafe,49.238699,-123.0509163,Renfrew-Collingwood
+1111,Tim Hortons,cafe,49.2593387,-123.0445903,Renfrew-Collingwood
+1113,Spanish Banks West Concession,fast_food,49.2775024,-123.2227417,West Point Grey
+1114,A&W,fast_food,49.2684742,-123.1859648,West Point Grey
+1115,Breka Bakery & Café,cafe,49.2684823,-123.1867573,West Point Grey
+1116,Nusa Coffee,cafe,49.2682531,-123.1677783,Kitsilano
+1117,La Glace,ice_cream,49.2579705,-123.1679754,Kitsilano
+1118,Starbucks,cafe,49.2464996,-123.1854116,Dunbar-Southlands
+1119,Amato Gelato & Cafè,cafe,49.2700562,-123.1030385,Mount Pleasant
+1126,COCO Fresh Tea & Juice,cafe,49.2345507,-123.0362568,Renfrew-Collingwood
+1130,Subway,fast_food,49.2785018,-123.1156293,Downtown
+1131,Russet Shack,fast_food,49.2785979,-123.1158033,Downtown
+1132,Jenjudan,cafe,49.2786375,-123.115902,Downtown
+1139,HAVE cafe,cafe,49.2829888,-123.0959146,Strathcona
+1141,YiFang Taiwan Fruit Tea,cafe,49.2497907,-123.1151843,Riley Park
+1142,Tim Hortons,cafe,49.2329446,-123.0653099,Kensington-Cedar Cottage
+1143,Meet Fresh Robson,cafe,49.2862969,-123.1277327,West End
+1146,7Days Coffee,cafe,49.276166,-123.1157038,Downtown
+1154,Basil Box,fast_food,49.2828897,-123.1230681,Downtown
+1155,Starbucks,cafe,49.2850423,-123.1205667,Downtown
+1156,Burger King,fast_food,49.2841391,-123.1142912,Downtown
+1158,Starbucks,cafe,49.277133,-123.1296758,Downtown
+1160,Marble Slab Creamery,ice_cream,49.263404,-123.1162261,Fairview
+1161,Urban Tea Merchant,cafe,49.2853887,-123.1229586,West End
+1162,Ho Ho's Yummy Food,cafe,49.2820786,-123.1340707,West End
+1163,Sumac Cafe,cafe,49.282131,-123.1341558,West End
+1164,Melriches Coffee House,cafe,49.2822483,-123.1343416,West End
+1165,Guu Davie,pub,49.2822628,-123.1337681,West End
+1166,Mary's on Davie,cafe,49.2817505,-123.1335605,West End
+1167,Score,bar,49.2823322,-123.1345615,West End
+1168,Blenz Coffee,cafe,49.2819635,-123.1333845,West End
+1178,Poké Bar,fast_food,49.2627114,-123.09985,Mount Pleasant
+1179,Starbucks,cafe,49.2627235,-123.1001878,Mount Pleasant
+1180,The Dime,pub,49.2707953,-123.0697877,Grandview-Woodland
+1183,Gene,cafe,49.2638682,-123.1006882,Mount Pleasant
+1184,Budgies Burritos,fast_food,49.2636427,-123.1005034,Mount Pleasant
+1185,Five Point,pub,49.2571036,-123.1008894,Mount Pleasant
+1186,Caffè Mira,cafe,49.2568815,-123.1009868,Mount Pleasant
+1187,The Ivanhoe,pub,49.2750615,-123.0996424,Strathcona
+1188,Union Market,cafe,49.2773052,-123.0869116,Strathcona
+1197,Pho Goodness,fast_food,49.280931,-123.1323047,West End
+1201,London Pub,pub,49.278388,-123.099578,Strathcona
+1204,Pho Royal,fast_food,49.2692484,-123.1459879,Kitsilano
+1205,Starbucks,cafe,49.2680641,-123.1567004,Kitsilano
+1206,MacFalafel,fast_food,49.268165,-123.1469026,Kitsilano
+1207,McDonald's,fast_food,49.2683578,-123.1595125,Kitsilano
+1208,WEEDS,cafe,49.2693988,-123.1459745,Kitsilano
+1212,49th Parallel & Lucky's Doughnuts Cafe,cafe,49.2680344,-123.1548186,Kitsilano
+1213,Jam Café,cafe,49.2682808,-123.1540137,Kitsilano
+1214,Glory Juice,fast_food,49.2680301,-123.1545679,Kitsilano
+1215,Jitters Cafe,cafe,49.2679451,-123.1494499,Kitsilano
+1216,Doner Kebab,fast_food,49.267943,-123.1492741,Kitsilano
+1217,Rain or Shine,ice_cream,49.2679235,-123.1486541,Kitsilano
+1218,Sejuiced,fast_food,49.267943,-123.1493262,Kitsilano
+1219,Crêpe Café,cafe,49.2682195,-123.1508793,Kitsilano
+1224,Number e Food,cafe,49.2777096,-123.1309686,Downtown
+1226,Iktsuarpok Coffee Stand,cafe,49.2812059,-123.104529,Downtown
+1227,Sweetery Cafe+Dessert,cafe,49.2680316,-123.1115966,Mount Pleasant
+1230,Rooster's Ice Cream Bar,ice_cream,49.2626043,-123.0823703,Mount Pleasant
+1231,The Pizza King,fast_food,49.2621894,-123.0741944,Kensington-Cedar Cottage
+1233,Dylan's,cafe,49.2194146,-123.1182638,Oakridge
+1234,,vending_machine,49.2638113,-123.1049227,Mount Pleasant
+1236,Ding Tea,cafe,49.2683908,-123.043984,Hastings-Sunrise
+1253,The Whip,bar,49.2655902,-123.1003893,Mount Pleasant
+1260,Burger King,fast_food,49.2811705,-123.1204114,Downtown
+1261,Starbucks,cafe,49.274665,-123.122111,Downtown
+1263,Papa John's,fast_food,49.2332549,-123.0347948,Killarney
+1265,Devil's Elbow,bar,49.2802664,-123.1097483,Downtown
+1266,Jam Cafe,cafe,49.2803078,-123.1096811,Downtown
+1274,,vending_machine,49.2785036,-123.1226093,Downtown
+1275,,vending_machine,49.2781965,-123.122954,Downtown
+1278,Le Petit Belge,cafe,49.2789851,-123.1164249,Downtown
+1280,The Black Frog,pub,49.2845626,-123.1084807,Downtown
+1281,Trees Organic Coffee,cafe,49.2845775,-123.1093205,Downtown
+1282,Bean Around The World,cafe,49.2825011,-123.1092466,Downtown
+1284,McDonald's,fast_food,49.2847649,-123.1210612,Downtown
+1285,Tim Hortons,cafe,49.2848332,-123.1209459,Downtown
+1286,Uncle Fatih's,fast_food,49.2624776,-123.0702461,Grandview-Woodland
+1287,McDonald's,fast_food,49.2617463,-123.0696025,Kensington-Cedar Cottage
+1288,Quiznos,fast_food,49.2616597,-123.0696079,Kensington-Cedar Cottage
+1289,Fresh Slice,fast_food,49.2615906,-123.0696065,Kensington-Cedar Cottage
+1290,Starbucks,cafe,49.2620273,-123.0700397,Kensington-Cedar Cottage
+1291,JJ Bean,cafe,49.2649351,-123.0694975,Grandview-Woodland
+1292,Park Drive,bar,49.2683984,-123.0698801,Grandview-Woodland
+1293,Cafe Calabria,cafe,49.2689086,-123.0698532,Grandview-Woodland
+1294,Starbucks,cafe,49.2688079,-123.069416,Grandview-Woodland
+1295,Continental Coffee,cafe,49.2685474,-123.0694037,Grandview-Woodland
+1296,Falconetti's,pub,49.2684563,-123.0694073,Grandview-Woodland
+1297,Starbucks,cafe,49.2875394,-123.1200147,Downtown
+1298,Red Burrito,fast_food,49.2694887,-123.0694438,Grandview-Woodland
+1299,Fire Pizza,fast_food,49.2673932,-123.0694555,Grandview-Woodland
+1300,4 Brothers' Pizza,fast_food,49.267464,-123.0694548,Grandview-Woodland
+1301,St Augustine's,pub,49.2637854,-123.0695196,Grandview-Woodland
+1303,Dive In Dessert Cafe,cafe,49.2694342,-123.0694395,Grandview-Woodland
+1304,Hoi An Cafe,cafe,49.2388325,-123.0650972,Kensington-Cedar Cottage
+1309,,pub,49.2037034,-123.1334192,Marpole
+1310,Oriole Cafe,cafe,49.204059,-123.1342853,Marpole
+1311,Pane From Heaven,cafe,49.270909,-123.147638,Kitsilano
+1313,Marpole Curling Club Cafe,cafe,49.2063346,-123.1235828,Marpole
+1315,Dairy Queen,fast_food,49.230899,-123.0907977,Sunset
+1316,Circus Play Cafe,cafe,49.2592978,-123.0704729,Kensington-Cedar Cottage
+1317,12 Kings Pub,pub,49.2603011,-123.0966837,Mount Pleasant
+1321,Café Crêpe Express,cafe,49.2836676,-123.1236177,West End
+1322,Subway,fast_food,49.2696735,-123.1459612,Kitsilano
+1323,Starbucks,cafe,49.2619003,-123.1383698,Fairview
+1324,Waves,cafe,49.2805086,-123.0999462,Downtown
+1325,Starbucks,cafe,49.2878625,-123.1239772,Downtown
+1326,Gram Cafe,cafe,49.2429006,-123.0608742,Kensington-Cedar Cottage
+1329,The Hastings Warehouse,pub,49.2821875,-123.1090478,Downtown
+1330,Malone's,pub,49.2840215,-123.1141074,Downtown
+1332,Electric Bicycle Brewing,bar,49.2672724,-123.1042375,Mount Pleasant
+1338,Hachibei 八兵衛,fast_food,49.2568861,-123.121518,South Cambie
+1339,Grade 'A' Cafe,fast_food,49.277457,-123.1259686,Downtown
+1340,Mr. Greek,fast_food,49.2774975,-123.1259158,Downtown
+1341,Sidecar,pub,49.277605,-123.1257615,Downtown
+1342,Donair Dude,fast_food,49.2778308,-123.1254331,Downtown
+1343,Cabana,bar,49.2776684,-123.1256767,Downtown
+1344,TAKO,fast_food,49.278957,-123.1081511,Downtown
+1345,Odo Sushi,fast_food,49.2794353,-123.1069567,Downtown
+1349,Earnest Ice Cream,ice_cream,49.2493503,-123.0898772,Kensington-Cedar Cottage
+1359,Uncle Fatihs Pizza,fast_food,49.2640478,-123.1142162,Mount Pleasant
+1360,Wendy's,fast_food,49.263801,-123.1145916,Mount Pleasant
+1365,Starbucks,cafe,49.2347245,-123.157554,Arbutus-Ridge
+1366,Boba Boy,cafe,49.2345067,-123.1580907,Kerrisdale
+1367,Adonia,cafe,49.2346968,-123.1536668,Shaughnessy
+1378,Tim Hortons,cafe,49.2627882,-123.1012573,Mount Pleasant
+1380,Starbucks,cafe,49.2447764,-123.1537897,Arbutus-Ridge
+1381,Subway,fast_food,49.226217,-123.065504,Victoria-Fraserview
+1383,Subway,fast_food,49.2625141,-123.1527767,Kitsilano
+1385,Grounds For Coffee,cafe,49.2637878,-123.1861359,West Point Grey
+1386,Blenz Coffee,cafe,49.2633902,-123.115605,Fairview
+1387,Blenz,cafe,49.2634442,-123.1196602,Fairview
+1390,Buro,cafe,49.2807258,-123.1185785,Downtown
+1392,Glory Juice,cafe,49.2690461,-123.1029151,Mount Pleasant
+1398,Nordstrom E-Bar,cafe,49.2822856,-123.1191044,Downtown
+1399,Caffe Express,cafe,49.2845541,-123.1181578,Downtown
+1400,Johnnie Fox's Irish Snug,pub,49.2789342,-123.1237243,Downtown
+1401,Blenz Coffee,cafe,49.2794404,-123.1230068,Downtown
+1402,Blenz Coffee,cafe,49.2757856,-123.1211099,Downtown
+1404,Shamrock Alley,bar,49.2873462,-123.141531,West End
+1405,Pat's Pub,pub,49.281417,-123.0949933,Strathcona
+1406,The Diamond,bar,49.2831604,-123.1040262,Downtown
+1407,Six Acres,pub,49.2833904,-123.1044226,Downtown
+1413,Chronic Tacos,fast_food,49.2860028,-123.1124564,Downtown
+1414,A&W,fast_food,49.2880327,-123.1236171,Downtown
+1416,Subway,fast_food,49.2560819,-123.1153942,South Cambie
+1417,Halfday Flower and Tea,cafe,49.2635247,-123.1239578,Fairview
+1418,The Liberty Distillery,bar,49.2704154,-123.1346411,Fairview
+1438,Starbucks,cafe,49.2840399,-123.1235612,West End
+1441,Resurrection Distillery and Lounge,bar,49.2820577,-123.0709121,Grandview-Woodland
+1442,Finfolk,pub,49.2820425,-123.0723691,Grandview-Woodland
+1457,Passion8 Dessert Cafe,cafe,49.2584514,-123.1147139,Mount Pleasant
+1458,Sharetea,cafe,49.2599354,-123.114726,Mount Pleasant
+1459,Tim Hortons,cafe,49.2658085,-123.1223088,Fairview
+1460,K Cafe,cafe,49.262972,-123.1200598,Fairview
+1461,Starbucks,cafe,49.2631541,-123.1194644,Fairview
+1462,B U N S + B O B A,cafe,49.2629664,-123.0983339,Mount Pleasant
+1463,Paper Crane Coffee,cafe,49.2626539,-123.0922063,Mount Pleasant
+1464,Buckets Ice Cream,ice_cream,49.2553503,-123.1010809,Riley Park
+1465,Church's Chicken,fast_food,49.2541445,-123.1012783,Riley Park
+1466,Sakura Cafe,cafe,49.264788,-123.1459071,Kitsilano
+1467,Carlos O`Bryan's Neighborhood Pub,pub,49.2653352,-123.1453811,Fairview
+1468,Pallet Coffee Roasters,cafe,49.2636034,-123.1508309,Kitsilano
+1470,Browns Crafthouse,pub,49.2838402,-123.1138503,Downtown
+1471,Parallel 49 Tasting Room & Beer Store,bar,49.2837876,-123.0641858,Grandview-Woodland
+1472,Parallel 49 Street Kitchen,pub,49.2837887,-123.0643214,Grandview-Woodland
+1473,Gong Cha,cafe,49.231652,-123.0313892,Killarney
+1477,The Junction,bar,49.2807293,-123.1323456,West End
+1482,Falafel King,fast_food,49.2801341,-123.118169,Downtown
+1483,Hubbub,fast_food,49.2794999,-123.1172314,Downtown
+1484,Curry Fusion,fast_food,49.2802404,-123.1183332,Downtown
+1485,Japadog,fast_food,49.2801999,-123.1182707,Downtown
+1486,Viet Sub,fast_food,49.2801622,-123.1182125,Downtown
+1487,Chopped Leaf,fast_food,49.2798631,-123.1177806,Downtown
+1494,McDonald's,fast_food,49.2873965,-123.1143665,Downtown
+1496,Starbucks,cafe,49.2844631,-123.1134341,Downtown
+1497,Subway,fast_food,49.2890568,-123.1146229,Downtown
+1498,Tim Hortons,cafe,49.2850471,-123.1120652,Downtown
+1507,halal arabic food stand,fast_food,49.2842402,-123.1175601,Downtown
+1508,Mr Shawarma,fast_food,49.2831011,-123.1171034,Downtown
+1509,Mr Shawarma,fast_food,49.2852994,-123.1201643,Downtown
+1510,JJ Bean,cafe,49.2874022,-123.1169095,Downtown
+1511,Baguette cafe,cafe,49.280456,-123.131581,West End
+1512,Starbucks,cafe,49.287236,-123.141423,West End
+1513,The Three Brits Public House,pub,49.2870731,-123.1418005,West End
+1515,Mean Poutine,fast_food,49.2793561,-123.1234139,Downtown
+1516,Megabite,fast_food,49.2792751,-123.1233421,Downtown
+1517,The Moose,pub,49.2794324,-123.1235884,Downtown
+1518,Tim Hortons,cafe,49.2792354,-123.1227256,Downtown
+1519,Fresh Slice Pizza,fast_food,49.2585993,-123.044779,Renfrew-Collingwood
+1520,Subway,fast_food,49.2579867,-123.0449264,Renfrew-Collingwood
+1521,Jugo Juice,fast_food,49.2848635,-123.124863,West End
+1527,Kahve café,cafe,49.2705516,-123.146241,Kitsilano
+1528,Prado,cafe,49.2841207,-123.1069471,Downtown
+1529,Guilt & Co,pub,49.2836569,-123.1041219,Downtown
+1539,No. 5 Orange,bar,49.2830338,-123.0998209,Downtown
+1549,Tim Hortons,cafe,49.2321736,-123.0312269,Renfrew-Collingwood
+1552,Propaganda Coffee,cafe,49.2804909,-123.0990143,Strathcona
+1553,Le Marché St. George,cafe,49.2457153,-123.094297,Riley Park
+1554,1181,bar,49.281603,-123.1328977,West End
+1555,Disco Cheetah,fast_food,49.2816322,-123.1329448,West End
+1556,Pumpjack,bar,49.2814951,-123.1327426,West End
+1557,KFC,fast_food,49.2812333,-123.1323093,West End
+1558,Café Terra,cafe,49.269881,-123.144966,Fairview
+1559,Starbucks,cafe,49.281246,-123.046993,Hastings-Sunrise
+1560,Starbucks,cafe,49.2727738,-123.1475974,Kitsilano
+1561,Après-midi,cafe,49.2832144,-123.1047785,Downtown
+1562,Vera's Burger Shack,fast_food,49.2831781,-123.1044747,Downtown
+1563,Tartine Bread and Pies,cafe,49.2802555,-123.130747,West End
+1564,Subway,fast_food,49.2318607,-123.0293811,Killarney
+1577,Chipotle,fast_food,49.2815417,-123.1211798,Downtown
+1578,Browns Social House,pub,49.2797733,-123.1130766,Downtown
+1579,Far Out Coffee Post,cafe,49.2849149,-123.0599882,Grandview-Woodland
+1580,McDonald's,fast_food,49.285126,-123.0640036,Grandview-Woodland
+1581,Yaletown Brewing Company,pub,49.2754345,-123.1209961,Downtown
+1582,Wall Flowers,cafe,49.2803909,-123.12543,Downtown
+1583,Starbucks,cafe,49.2817947,-123.1246565,Downtown
+1584,Pâtisserie Lebeau,cafe,49.269642,-123.144421,Fairview
+1585,Bayside Lounge,bar,49.2872658,-123.1415278,West End
+1586,Blue Parrot Coffee,cafe,49.2439478,-123.1073594,Riley Park
+1587,Starbucks,cafe,49.2453491,-123.1247917,South Cambie
+1588,Shaughnessy Cafe,cafe,49.244046,-123.1238522,South Cambie
+1589,Aperture Coffee Bar,cafe,49.2632666,-123.1105064,Mount Pleasant
+1593,Aperture Coffee Bar,cafe,49.2484101,-123.1008773,Riley Park
+1594,Mink,cafe,49.2866225,-123.1153226,Downtown
+1595,Ubuntu Canteen,cafe,49.247691,-123.0899686,Kensington-Cedar Cottage
+1596,Pacific Coffee Roasters,cafe,49.2792111,-123.116158,Downtown
+1597,Salad Loop,fast_food,49.2791142,-123.1158255,Downtown
+1599,Subway,fast_food,49.2183451,-123.0773794,Sunset
+1601,The Drive Coffee Bar,cafe,49.2699444,-123.0694304,Grandview-Woodland
+1606,Bean Around The World,cafe,49.2622219,-123.1223325,Fairview
+1609,Wheat and Barley,cafe,49.2784508,-123.0991718,Strathcona
+1610,YaYa's,cafe,49.2795831,-123.1241526,Downtown
+1611,Freshslice Pizza,fast_food,49.2816572,-123.1205978,Downtown
+1612,Orange Julius,fast_food,49.2795971,-123.1174151,Downtown
+1613,A&W,fast_food,49.2796191,-123.117481,Downtown
+1614,A&W,fast_food,49.2817133,-123.1206758,Downtown
+1617,Mario's,cafe,49.2846002,-123.1171091,Downtown
+1618,The Den,bar,49.2874645,-123.1295818,West End
+1619,Cacao 70,ice_cream,49.2819069,-123.1187639,Downtown
+1623,Dublin Calling,pub,49.2801019,-123.1213535,Downtown
+1624,Matchstick Coffee Roasters,cafe,49.2786851,-123.0992577,Strathcona
+1625,Gemini tea bar,cafe,49.2776328,-123.1310886,Downtown
+1626,Daikichi Sushi,fast_food,49.2774536,-123.1313375,Downtown
+1627,Pho,fast_food,49.277676,-123.1310303,Downtown
+1628,Sushi Coen,fast_food,49.2777387,-123.1309321,Downtown
+1629,Ventura Room,bar,49.2796906,-123.1130707,Downtown
+1630,Red Racer Taphouse,pub,49.2769066,-123.1154049,Downtown
+1631,Rocanini,cafe,49.2770169,-123.1151076,Downtown
+1633,A&W,fast_food,49.2093486,-123.1167129,Marpole
+1634,Tim Hortons,cafe,49.2092621,-123.1166316,Marpole
+1637,Rosemary Rocksalt,cafe,49.2625653,-123.1012778,Mount Pleasant
+1638,Subway,fast_food,49.259913,-123.1013173,Mount Pleasant
+1639,Bellagio's Gelato,fast_food,49.2577431,-123.1014053,Mount Pleasant
+1640,Uncle Abe's,bar,49.2581178,-123.1009494,Mount Pleasant
+1641,Hawker's Delight,fast_food,49.2483723,-123.1012782,Riley Park
+1642,McDonald's,fast_food,49.2451512,-123.1015128,Riley Park
+1643,The Emerald,bar,49.2801961,-123.0974652,Strathcona
+1644,A&W,fast_food,49.2787971,-123.1234582,Downtown
+1645,Our Town Café,cafe,49.2630073,-123.0999351,Mount Pleasant
+1648,Best Bite Donair,fast_food,49.2803306,-123.1308594,West End
+1649,Starbucks,cafe,49.2859592,-123.1152363,Downtown
+1650,Subway,fast_food,49.284191,-123.1159168,Downtown
+1664,WEEDS,cafe,49.2241883,-123.1019459,Sunset
+1667,Cartem Donuts,ice_cream,49.2656413,-123.1005753,Mount Pleasant
+1673,Wise Club & Hall,pub,49.2772898,-123.0660472,Grandview-Woodland
+1674,Cedar Cottage Pub,pub,49.2513484,-123.0777934,Kensington-Cedar Cottage
+1675,Bakery Sate,cafe,49.2589012,-123.0699849,Kensington-Cedar Cottage
+1678,Chance Cafe,cafe,49.2539218,-123.0677981,Kensington-Cedar Cottage
+1679,Commercial Street Cafe,cafe,49.2525689,-123.0681922,Kensington-Cedar Cottage
+1680,Darby's,pub,49.2814612,-123.1051707,Downtown
+1686,Sweet Revenge,cafe,49.2480929,-123.1008145,Riley Park
+1687,Laughing Beans Coffee,cafe,49.2814113,-123.0495721,Hastings-Sunrise
+1688,Breka Bakery & Café,cafe,49.278414,-123.1278962,Downtown
+1692,Biltmore Cabaret,bar,49.2603834,-123.096422,Mount Pleasant
+1694,Church's Chicken,fast_food,49.2809841,-123.0574196,Grandview-Woodland
+1695,Pennyroyal Cafe,cafe,49.281317,-123.0587126,Grandview-Woodland
+1698,Freshslice Pizza,fast_food,49.2740753,-123.1220882,Downtown
+1700,Breka Bakery & Café,cafe,49.2251092,-123.0909697,Sunset
+1711,Kent's Kitchen,fast_food,49.2793149,-123.0987588,Strathcona
+1712,The Bagel Stop,fast_food,49.2860715,-123.1198755,Downtown
+1713,Trees Organic Coffee,cafe,49.2740655,-123.1273593,Downtown
+1714,Unwind,fast_food,49.2784482,-123.125521,Downtown
+1715,Ridge Garden,fast_food,49.2508148,-123.1680215,Arbutus-Ridge
+1717,Fujiya take out,fast_food,49.2870439,-123.1197864,Downtown
+1720,Honolulu Coffee,cafe,49.2343946,-123.1548066,Kerrisdale
+1722,International Deli Cafe,cafe,49.2110582,-123.1304389,Marpole
+1723,Starbucks,cafe,49.2108729,-123.130452,Marpole
+1725,Subway,fast_food,49.226921,-123.1288066,Oakridge
+1748,Domino's,fast_food,49.2776544,-123.125186,Downtown
+1752,,fast_food,49.2538589,-123.0613739,Kensington-Cedar Cottage
+1754,Sciué Italian Bakery Caffé,cafe,49.2732067,-123.1207367,Downtown
+1758,Cafe Rosemary,cafe,49.2823797,-123.0742822,Grandview-Woodland
+1789,Tim Hortons,cafe,49.2874193,-123.1145811,Downtown
+1794,Red Card Sports Bar + Eatery,bar,49.2793791,-123.120222,Downtown
+1795,JJ Bean,cafe,49.2827821,-123.107962,Downtown
+1796,Metropole,bar,49.2825107,-123.1068062,Downtown
+1797,Hiro Sushi,fast_food,49.2829336,-123.1082494,Downtown
+1798,Grand Union Hotel,pub,49.2817874,-123.1067495,Downtown
+1799,Congee Noodle Delight,fast_food,49.2805664,-123.1062443,Downtown
+1800,Tangram Creamery,cafe,49.2616159,-123.1532497,Kitsilano
+1802,Hooked Poke Bar,fast_food,49.2806971,-123.1249776,Downtown
+1803,Pokérrito,fast_food,49.2807276,-123.1249285,Downtown
+1804,Trish Juice,fast_food,49.2808062,-123.1248205,Downtown
+1805,Twin Leaf,fast_food,49.2854427,-123.1172593,Downtown
+1806,Pholicious,fast_food,49.284215,-123.112463,Downtown
+1807,Starbucks,cafe,49.284888,-123.1180639,Downtown
+1808,Cafe Artigiano,cafe,49.2848628,-123.1187816,Downtown
+1809,Cafe Artigiano,cafe,49.2831204,-123.1213927,Downtown
+1810,Blenz Coffee,cafe,49.2840267,-123.1122692,Downtown
+1811,My Honey's Buns,cafe,49.2840486,-123.11997,Downtown
+1812,Faubourg Paris,cafe,49.2830645,-123.1214778,Downtown
+1813,Starbucks,cafe,49.2824438,-123.122325,Downtown
+1814,Baghdad Cafe,fast_food,49.2834377,-123.1144759,Downtown
+1815,Pizza Guys,fast_food,49.2772847,-123.1276861,Downtown
+1816,Blue Mountain,cafe,49.276729,-123.1284758,Downtown
+1817,BC's Best Coffee,cafe,49.2765348,-123.1287931,Downtown
+1818,Main Street Tasting Lounge,bar,49.2646995,-123.0994151,Mount Pleasant
+1821,Sunset Beach Consession Stand,cafe,49.2787671,-123.1378619,West End
+1822,Jericho Beach Consession,cafe,49.2717194,-123.1915572,West Point Grey
+1823,Mr. Sub,fast_food,49.2621487,-123.0447635,Hastings-Sunrise
+1826,Starbucks,cafe,49.2324709,-123.0240186,Renfrew-Collingwood
+1828,Subway,fast_food,49.2655577,-123.1199868,Fairview
+1829,Subway,fast_food,49.2779076,-123.1277317,Downtown
+1831,Starbucks,cafe,49.2709784,-123.087674,Strathcona
+1832,Tim Hortons,cafe,49.2721608,-123.0977203,Strathcona
+1833,Arbutus Coffee,cafe,49.2662772,-123.1527092,Kitsilano
+1834,Starbucks,cafe,49.269022,-123.146012,Kitsilano
+1835,Bel Café,cafe,49.268772,-123.145147,Fairview
+1836,Fresh Bowl,fast_food,49.274141,-123.1200688,Downtown
+1837,Persian Tea House,cafe,49.276885,-123.126064,Downtown
+1838,Cornerstone Coffee Shop,cafe,49.2682302,-123.1661718,Kitsilano
+1839,Cafe Lokal,cafe,49.2681926,-123.1647073,Kitsilano
+1840,Flying Wedge Pizza,fast_food,49.2555159,-123.1153245,South Cambie
+1841,Tim Hortons,cafe,49.2776017,-123.1272193,Downtown
+1842,Starbucks,cafe,49.2790558,-123.1255832,Downtown
+1843,Starbucks,cafe,49.2767389,-123.1252348,Downtown
+1855,Social Crust Cafe & Catering,cafe,49.2825678,-123.1113926,Downtown
+1865,Yama Cafe,cafe,49.2813234,-123.0632825,Grandview-Woodland
+1866,Mr Red Cafe,cafe,49.2813135,-123.0608831,Grandview-Woodland
+1867,Donair Town,fast_food,49.2914507,-123.1351281,West End
+1869,Domino's,fast_food,49.2336486,-123.0361183,Killarney
+1870,CoCo Fresh Tea & Juice,cafe,49.2106583,-123.1168256,Marpole
+1871,Panago Pizza,fast_food,49.2111569,-123.1408597,Marpole
+1872,Mr. Mustache Bubble Tea,cafe,49.2124748,-123.1406438,Marpole
+1873,Taan Char,cafe,49.2139841,-123.1401327,Marpole
+1874,Bubble Bear Cafe,cafe,49.2126966,-123.1406461,Marpole
+1885,The Praguery,ice_cream,49.2834894,-123.1067348,Downtown
+1886,Domino's,fast_food,49.2626605,-123.091518,Mount Pleasant
+1889,Boba Boy,cafe,49.263513,-123.1421078,Fairview
+1901,La Pache Pizza,fast_food,49.2661695,-123.0694931,Grandview-Woodland
+1902,Elephant Garden Creamery,ice_cream,49.2662508,-123.0695038,Grandview-Woodland
+1911,HY Tea Lounge,cafe,49.26957,-123.139846,Fairview
+1913,Starbucks,cafe,49.2335878,-123.0657803,Kensington-Cedar Cottage
+1918,JJ Beans,cafe,49.2861756,-123.1406216,West End
+1919,Red Room,bar,49.2842279,-123.1113795,Downtown
+1920,Indigo Age,cafe,49.2834975,-123.1125167,Downtown
+1921,Waffle Frenzy,fast_food,49.2837533,-123.1120999,Downtown
+1922,Subway,fast_food,49.2839142,-123.1123573,Downtown
+1923,Buro,cafe,49.2844688,-123.1103327,Downtown
+1924,Brioche,cafe,49.2841913,-123.1099164,Downtown
+1925,Twelve West,bar,49.2770411,-123.1266332,Downtown
+1926,Milestones,pub,49.2639564,-123.1152029,Fairview
+1932,Kingston,pub,49.280708,-123.1172196,Downtown
+1933,Starbucks,cafe,49.280139,-123.127256,Downtown
+1934,Mucho Burrito,fast_food,49.2787163,-123.1289359,Downtown
+1935,Fountainhead Pub,pub,49.279654,-123.12973,West End
+1941,Starbucks,cafe,49.2872169,-123.1285584,West End
+1942,Waves Coffee House,cafe,49.278383,-123.1149456,Downtown
+1943,Subway,fast_food,49.2796822,-123.1265354,Downtown
+1945,Sciué,cafe,49.2852515,-123.1161798,Downtown
+1946,Starbucks,cafe,49.2846685,-123.115193,Downtown
+1947,Tim Hortons,cafe,49.284954,-123.115582,Downtown
+1954,The Brighton,bar,49.2812751,-123.0551908,Hastings-Sunrise
+1960,Starbucks,cafe,49.2063511,-123.030686,Killarney
+1961,Honolulu Coffee,cafe,49.2630659,-123.1165744,Fairview
+1962,,vending_machine,49.2628342,-123.0692772,Grandview-Woodland
+1963,,vending_machine,49.2628692,-123.0693623,Grandview-Woodland
+1964,,vending_machine,49.262852,-123.0693223,Grandview-Woodland
+1965,,vending_machine,49.2726747,-123.1012782,Mount Pleasant
+1966,Starbucks,cafe,49.2609883,-123.1155765,Fairview
+1977,Yaletown Gelato,ice_cream,49.2750378,-123.123373,Downtown
+1978,Bismarck,bar,49.2804152,-123.1074119,Downtown
+1979,Einstein Wrap House,fast_food,49.280541,-123.1074094,Downtown
+1983,Off the Grid Waffle Cafe,cafe,49.2306265,-123.0908896,Sunset
+1991,Babylon Cafe,fast_food,49.2796131,-123.1239353,Downtown
+1992,Subway,fast_food,49.2747568,-123.1002559,Downtown
+1995,Pallet Coffee Roasters,cafe,49.2798788,-123.1236378,Downtown
+2001,5FiftyGame,internet_cafe,49.2833999,-123.1145203,Downtown
+2002,Caffe Barney,bar,49.2592073,-123.1389048,Fairview
+2004,Pizza Pizza,fast_food,49.2629671,-123.0988218,Mount Pleasant
+2005,Jenjudan,cafe,49.211253,-123.1401676,Marpole
+2006,Cha Yuan,cafe,49.2740045,-123.1223976,Downtown
+2010,Andina Tasting Lounge,pub,49.2834684,-123.0736709,Grandview-Woodland
+2014,Matchstick,cafe,49.2743949,-123.1262124,Downtown
+2016,Xing Fu Tang,cafe,49.2545199,-123.1149885,Riley Park
+2017,Kyle's Cafe,cafe,49.2609647,-123.0699741,Kensington-Cedar Cottage
+2029,In the Moment Coffee,cafe,49.281261,-123.0254265,Hastings-Sunrise
+2032,Starbucks,cafe,49.2812597,-123.0536749,Hastings-Sunrise
+2033,FreshSlice,fast_food,49.2812597,-123.0537245,Hastings-Sunrise
+2035,Abdul's BBQ,fast_food,49.2803398,-123.1072667,Downtown
+2036,Yak & Yeti Bistro,fast_food,49.2683055,-123.1723907,Kitsilano
+2037,Everyday Sushi,fast_food,49.2636878,-123.2113535,West Point Grey
+2038,The Cove Pub,fast_food,49.2687846,-123.1852151,Kitsilano
+2040,Best Neighbors,fast_food,49.2514267,-123.1272648,South Cambie
+2046,Prado Cafe,cafe,49.2671957,-123.0694571,Grandview-Woodland
+2054,Ethical Bean Café,cafe,49.2727336,-123.0284788,Hastings-Sunrise
+2055,Elysian Coffee Roasters,cafe,49.2645304,-123.1050298,Mount Pleasant
+2057,Timbertrain,cafe,49.2839055,-123.1094962,Downtown
+2058,Meatball Kitchen,fast_food,49.2830143,-123.1091786,Downtown
+2059,Bamboo Cafe,cafe,49.2837399,-123.1092308,Downtown
+2060,Pub 340,bar,49.2828092,-123.1092642,Downtown
+2065,Subway,fast_food,49.2792636,-123.1078464,Downtown
+2066,Tim Hortons,cafe,49.2809701,-123.107834,Downtown
+2067,The Narrow Lounge,pub,49.2683292,-123.1003762,Mount Pleasant
+2068,Two Parrots,bar,49.2769507,-123.1261599,Downtown
+2069,Fritz's European Fry House,fast_food,49.2772949,-123.1266675,Downtown
+2070,Freshslice Pizza,fast_food,49.2776678,-123.1266852,Downtown
+2071,Caffè Cittadella,cafe,49.264819,-123.1172519,Fairview
+2077,PappaRoti,cafe,49.2888664,-123.1311016,West End
+2078,Pokébar,fast_food,49.2800579,-123.1309152,West End
+2099,Ballyhoo Public House,pub,49.2822225,-123.1241191,Downtown
+2106,Xing Fu Tang,cafe,49.2127759,-123.1401871,Marpole
+2111,Granville Island Brewing Taproom,pub,49.2705549,-123.1356713,Fairview
+2113,Blarney Stone,pub,49.2827946,-123.1041486,Downtown
+2114,Lotus Seed Vegan,cafe,49.2631683,-123.1208683,Fairview
+2116,Yopo,fast_food,49.2760108,-123.1219029,Downtown
+2117,Menchie's Frozen Yogourt,fast_food,49.2753352,-123.1237311,Downtown
+2118,The New Oxford,bar,49.2757085,-123.1222873,Downtown
+2119,O-Cha Tea Bar,cafe,49.2761071,-123.1217571,Downtown
+2120,The Keefer,bar,49.2796198,-123.1013261,Downtown
+2121,Balila,fast_food,49.2798076,-123.1267669,Downtown
+2122,Small Victory,cafe,49.2764571,-123.1212148,Downtown
+2123,Greenhorn Espresso Bar,cafe,49.2866311,-123.1340267,West End
+2124,,vending_machine,49.2730868,-123.0996251,Strathcona
+2125,,vending_machine,49.2730843,-123.0996032,Strathcona
+2126,JJ Bean,cafe,49.28207,-123.1137317,Downtown
+2127,Field & Social,cafe,49.2819959,-123.1136208,Downtown
+2128,Blenz Coffee,cafe,49.2868125,-123.1131691,Downtown
+2129,Mediterranean Grill,cafe,49.2877383,-123.1408632,West End
+2131,Chancho Tortilleria,fast_food,49.2761708,-123.1249057,Downtown
+2132,Bella Gelateria,ice_cream,49.2878268,-123.1162114,Downtown
+2133,Subway,fast_food,49.263802,-123.1405911,Fairview
+2134,Tim Hortons,cafe,49.2638336,-123.1407841,Fairview
+2143,Starbucks,cafe,49.2195226,-123.0410962,Killarney
+2144,A&W,fast_food,49.2192667,-123.0408347,Killarney
+2145,Subway,fast_food,49.2188696,-123.0401823,Killarney
+2156,Starbucks,cafe,49.2578202,-123.1682797,Kitsilano
+2157,The Wolf and Hound,pub,49.2644903,-123.1842004,Kitsilano
+2158,McDonald's,fast_food,49.2640388,-123.178066,Kitsilano
+2159,Starbucks,cafe,49.2641628,-123.1663008,Kitsilano
+2160,Manchester Public Eatery,pub,49.2639431,-123.1492041,Kitsilano
+2161,Blenz Coffee,cafe,49.2771432,-123.1264714,Downtown
+2162,Starbucks,cafe,49.2799212,-123.1178938,Downtown
+2163,Waves Coffee House,cafe,49.2807244,-123.1224892,Downtown
+2164,Lennox Pub,pub,49.281145,-123.119819,Downtown
+2165,Prego Cofee,cafe,49.2750713,-123.1333344,Downtown
+2167,Starbucks,cafe,49.2632231,-123.1389199,Fairview
+2168,Blenz Coffee,cafe,49.2634549,-123.1383566,Fairview
+2169,Starbucks,cafe,49.2654797,-123.1382778,Fairview
+2175,Russel Brewing Company,pub,49.2642338,-123.1725691,Kitsilano
+2176,Starbucks,cafe,49.2639716,-123.1702755,Kitsilano
+2177,Thomas Haas,cafe,49.2641245,-123.1632742,Kitsilano
+2178,Platform 7,cafe,49.2637397,-123.1578123,Kitsilano
+2179,Evelyn's Coffee and Grill,fast_food,49.2637096,-123.1545909,Kitsilano
+2180,Solaris Coffee,cafe,49.2636686,-123.1485129,Kitsilano
+2181,Starbucks,cafe,49.263547,-123.1443925,Fairview
+2182,Storm Crow Alehouse,pub,49.2638288,-123.1416759,Fairview
+2183,Xing Fu Tang,cafe,49.2832473,-123.1164016,Downtown
+2184,Subway,fast_food,49.2626769,-123.0904448,Mount Pleasant
+2186,49th Parallel Café & Lucky's Donuts,cafe,49.2591422,-123.100838,Mount Pleasant
+2187,Starbucks,cafe,49.258523,-123.1008804,Mount Pleasant
+2197,Wicked Cafe,cafe,49.265473,-123.135885,Fairview
+2199,Subway,fast_food,49.2804593,-123.1219022,Downtown
+2200,Grain Tasting Bar,bar,49.2852025,-123.1203437,Downtown
+2207,Jenjudan,cafe,49.2316937,-123.0296352,Killarney
+2211,Trafiq,cafe,49.2473437,-123.1009465,Riley Park
+2232,16th Avenue Cafe,cafe,49.256999,-123.1270226,South Cambie
+2254,Craft Restaurant & Bar,pub,49.2705733,-123.1063824,Mount Pleasant
+2259,Starbucks,cafe,49.285758,-123.1116688,Downtown
+2260,Numbers,bar,49.2796989,-123.1303992,West End
+2265,,fast_food,49.2750595,-123.2066651,West Point Grey
+2266,Spanish Banks East Concession,fast_food,49.2762862,-123.2149049,West Point Grey
+2267,Dairy Queen,fast_food,49.2359278,-123.0447153,Renfrew-Collingwood
+2275,The Union,pub,49.2777673,-123.0989237,Strathcona
+2276,49th Parallel Café & Lucky's Doughnuts,cafe,49.2860362,-123.1230296,Downtown
+2277,Doux Crêpes,cafe,49.2743631,-123.1268723,Downtown
+2285,One Saigon,fast_food,49.2808277,-123.1247845,Downtown
+2290,Tim Hortons,cafe,49.2875882,-123.1216196,Downtown
+2291,Triple O's,fast_food,49.2866181,-123.1209638,Downtown
+2292,,food_court,49.2866636,-123.1207948,Downtown
+2293,,food_court,49.2866951,-123.118759,Downtown
+2294,Tim Hortons,cafe,49.249466,-123.1156479,South Cambie
+2298,Kind Cafe,cafe,49.2577988,-123.1009212,Mount Pleasant
+2299,Fufú Café,cafe,49.2633404,-123.132654,Fairview
+2300,Castella Cheesecake,cafe,49.2857878,-123.1269044,West End
+2301,Vera's Burger Shack,fast_food,49.2795194,-123.1301024,West End
+2302,Molli Cafe,cafe,49.2787557,-123.1301016,West End
+2303,Starbucks,cafe,49.2803846,-123.1309375,West End
+2316,Hayan Mug,cafe,49.2519791,-123.100768,Riley Park
+2317,KingSize Bubble Tea & Games,cafe,49.2463221,-123.1014214,Riley Park
+2318,Freshslice Pizza,fast_food,49.2468654,-123.1013909,Riley Park
+2319,Matchstick,cafe,49.2418836,-123.1016621,Riley Park
+2320,Dairy Queen,fast_food,49.2594216,-123.1008786,Mount Pleasant
+2327,Tony's Coffee,cafe,49.2636404,-123.1220797,Fairview
+2328,Mac Falafel,fast_food,49.2638061,-123.1854424,Kitsilano
+2329,One Under Vancouver,bar,49.2847445,-123.114506,Downtown
+2330,TAP shack Eatery,bar,49.2897968,-123.1212582,Downtown
+2334,Sharetea,cafe,49.232398,-123.0255075,Renfrew-Collingwood
+2335,TTOB,cafe,49.2556064,-123.1149305,Riley Park
+2341,Subway,fast_food,49.2703957,-123.105986,Mount Pleasant
+2342,The Bubble Tea Shop,cafe,49.2696863,-123.1063556,Mount Pleasant
+2343,Blenz Coffee,cafe,49.2694623,-123.1063731,Mount Pleasant
+2344,Starbucks,cafe,49.2642321,-123.1144869,Mount Pleasant
+2345,Tim Hortons,cafe,49.2812759,-123.0464917,Hastings-Sunrise
+2346,33 Brewing Experiment,bar,49.2639071,-123.1055201,Mount Pleasant
+2347,33 Acres Brewing,bar,49.2639071,-123.1053136,Mount Pleasant
+2348,Sciué,cafe,49.2853345,-123.1122226,Downtown
+2351,JJ Bean,cafe,49.2701097,-123.1091957,Mount Pleasant
+2356,Caffè Artigiano,cafe,49.2876852,-123.1205021,Downtown
+2360,Starbucks,cafe,49.2792817,-123.1169322,Downtown
+2361,Starbucks,cafe,49.2772564,-123.1187373,Downtown
+2362,Starbucks,cafe,49.2768092,-123.1148343,Downtown
+2364,McDonald's,fast_food,49.2808356,-123.0305122,Hastings-Sunrise
+2365,Oscar's Pub,pub,49.2809539,-123.023841,Hastings-Sunrise
+2375,Chatime,cafe,49.2809895,-123.0488387,Hastings-Sunrise
+2380,JJ Bean,cafe,49.2582579,-123.1008816,Mount Pleasant
+2381,Q Coffee,cafe,49.2357054,-123.1855062,Dunbar-Southlands
+2383,Siegel's Bagels,cafe,49.2720921,-123.134966,Fairview
+2385,Subway,fast_food,49.2579872,-123.1685632,Kitsilano
+2386,Subway,fast_food,49.2445676,-123.1537958,Arbutus-Ridge
+2394,Tim Hortons,cafe,49.2561422,-123.1855168,Dunbar-Southlands
+2398,Tim Hortons,cafe,49.2830656,-123.1164538,Downtown
+2404,Perverted Ice-Cream,ice_cream,49.2848162,-123.1247532,West End
+2409,Subway,fast_food,49.263332,-123.1329176,Fairview
+2410,Panago,fast_food,49.2633326,-123.1328362,Fairview
+2411,Pedro's Organic Coffee House,cafe,49.270205,-123.136379,Fairview
+2422,Nat's New York Pizzeria,fast_food,49.2884212,-123.13986,West End
+2423,,ice_cream,49.2883139,-123.1400135,West End
+2426,Lost + Found Cafe,cafe,49.2819083,-123.1056595,Downtown
+2430,The Beaver Taphouse,pub,49.2789269,-123.1231338,Downtown
+2432,Prototype Coffee,cafe,49.2812497,-123.085284,Strathcona
+2433,Prime's Thai Tea,cafe,49.2858499,-123.1270004,West End
+2434,Beetbox,fast_food,49.2800784,-123.1309502,West End
+2435,Brickhouse,pub,49.2780156,-123.0995912,Strathcona
+2440,Eclettico Art & Coffee,cafe,49.2478937,-123.089967,Kensington-Cedar Cottage
+2443,Chatime,cafe,49.2310932,-123.155862,Kerrisdale
+2444,Chase Tea,cafe,49.2346961,-123.153812,Shaughnessy
+2452,Off the Grid Waffle Cafe,cafe,49.2306058,-123.0908166,Sunset
+2454,Be Fresh Market,cafe,49.270577,-123.148057,Kitsilano
+2462,Kitsilano Beach Cafe,cafe,49.2730547,-123.157463,Kitsilano
+2463,Starbucks,cafe,49.2319246,-123.1168641,Oakridge
+2464,McDonald's,fast_food,49.2788511,-123.1156891,Downtown
+2475,Noodle Box,fast_food,49.2681702,-123.1469926,Kitsilano
+2482,Starbucks,cafe,49.2596905,-123.0438986,Renfrew-Collingwood
+2483,Starbucks,cafe,49.2586029,-123.0307066,Renfrew-Collingwood
+2484,Tim Hortons,cafe,49.2821466,-123.1185541,Downtown
+2488,Subway,fast_food,49.2415237,-123.0577701,Renfrew-Collingwood
+2490,Second Cup,cafe,49.2445292,-123.1257268,South Cambie
+2491,Bean Around the World,cafe,49.2458407,-123.1269344,South Cambie
+2493,Jugo Juice,fast_food,49.2741294,-123.121871,Downtown
+2494,Subway,fast_food,49.2740362,-123.1222575,Downtown
+2495,DQ Orange Julius,fast_food,49.2740162,-123.122343,Downtown
+2496,Costco Food Court,food_court,49.2787678,-123.1092628,Downtown
+2497,Blazing Sushi,fast_food,49.279869,-123.1068827,Downtown
+2502,Boba Essence,cafe,49.2700634,-123.103495,Mount Pleasant
+2503,Railtown Café,cafe,49.2703779,-123.1009077,Mount Pleasant
+2504,Umaluna Dairy-Free Gelato,ice_cream,49.2804624,-123.0986151,Strathcona
+2505,Aubade Coffee,cafe,49.2802559,-123.0988317,Strathcona
+2506,La Boqueria,bar,49.2804447,-123.0976766,Strathcona
+2518,Willow Cafe & Bakery,cafe,49.2571562,-123.1217915,Fairview
+2520,Big G,fast_food,49.2791959,-123.1167821,Downtown
+2521,Brooklyn NYC Pizzeria,fast_food,49.2790996,-123.1166316,Downtown
+2525,A&W,fast_food,49.2858989,-123.1122871,Downtown
+2527,Subway,fast_food,49.2859088,-123.1119662,Downtown
+2528,Jugo Juice,cafe,49.2858583,-123.1118595,Downtown
+2529,Coal Harbour Cafe,cafe,49.2883311,-123.1126862,Downtown
+2530,GI Gelato & Coffee House,cafe,49.2721373,-123.1338039,Fairview
+2545,Comebuy Bubble Tea,cafe,49.2907375,-123.1339997,West End
+2548,Kung Fu Tea,cafe,49.2642297,-123.1694301,Kitsilano
+2549,Baroness Bubble Tea,cafe,49.2639357,-123.1679165,Kitsilano
+2550,YiFang Taiwan Fruit Tea,cafe,49.2639588,-123.2095901,West Point Grey
+2551,Starbucks,cafe,49.2637294,-123.2115251,West Point Grey
+2552,Storm City Coffee,cafe,49.2644035,-123.1800767,Kitsilano
+2553,720 Sweets & Etc.,ice_cream,49.2640556,-123.1772222,Kitsilano
+2554,Starbucks,cafe,49.2643151,-123.173779,Kitsilano
+2555,Cartems Donuts,cafe,49.2640134,-123.1729476,Kitsilano
+2556,BlackBall Taiwanese Dessert,cafe,49.2329439,-123.0332487,Renfrew-Collingwood
+2559,Assembli,fast_food,49.2875974,-123.1191416,Downtown
+2560,Caffé Artigiano,cafe,49.2745255,-123.1224197,Downtown
+2561,JJBean,cafe,49.2752575,-123.1236127,Downtown
+2562,Glory Juice,cafe,49.2755725,-123.1233974,Downtown
+2563,Coo Coo Coffee,cafe,49.2757381,-123.1237304,Downtown
+2564,Abruzzo Capuccino Bar,cafe,49.2726006,-123.0697391,Grandview-Woodland
+2565,,cafe,49.2723108,-123.0697495,Grandview-Woodland
+2566,Cafe Du Soleil,cafe,49.272442,-123.0697443,Grandview-Woodland
+2579,Darby's Public House & Liqour Store,pub,49.2682508,-123.1686006,Kitsilano
+2586,Revolver,cafe,49.2831716,-123.1094595,Downtown
+2591,,vending_machine,49.280096,-123.1193369,Downtown
+2592,,vending_machine,49.2800803,-123.11931,Downtown
+2593,,vending_machine,49.2799591,-123.1185818,Downtown
+2594,Fresh Slice,fast_food,49.2641666,-123.138328,Fairview
+2595,Chiffon Patisserie,cafe,49.2635971,-123.1285321,Fairview
+2596,Rangoli,cafe,49.261607,-123.138273,Fairview
+2598,Coffee Bogo,cafe,49.2885653,-123.1392527,West End
+2602,Elysian Coffee Roasters,cafe,49.2798648,-123.1276754,Downtown
+2608,Camy's Pizza,fast_food,49.2331433,-123.0900643,Kensington-Cedar Cottage
+2614,Turk's,cafe,49.2732092,-123.0693164,Grandview-Woodland
+2615,Brassneck Tasting Room,bar,49.2658067,-123.1005698,Mount Pleasant
+2616,Slow Hand Tasting Room,bar,49.2842649,-123.0672525,Grandview-Woodland
+2630,Japadog,fast_food,49.2824343,-123.124419,West End
+2631,Starbucks,cafe,49.2877059,-123.1133343,Downtown
+2635,Café Prado,cafe,49.269394,-123.14098,Fairview
+2636,Domino's Pizza,fast_food,49.263365,-123.13429,Fairview
+2637,Starbucks,cafe,49.2540797,-123.115006,Riley Park
+2642,Bean Around The World,cafe,49.2591796,-123.1389048,Fairview
+2643,Phoscao Cafe,cafe,49.2587432,-123.1389691,Fairview
+2644,Bump n Grind Cafe,cafe,49.2586257,-123.1385101,Fairview
+2662,Subway,fast_food,49.2509753,-123.1270905,South Cambie
+2671,Carl's Jr.,fast_food,49.2843286,-123.1178118,Downtown
+2673,Yogen Früz,ice_cream,49.2866738,-123.1283087,West End
+2674,Innocent Coffee,cafe,49.266587,-123.135408,Fairview
+2675,JJBean,cafe,49.272173,-123.1351454,Fairview
+2676,Petit Ami,cafe,49.2725816,-123.135486,Fairview
+2677,The Blue Parrot Coffee,cafe,49.2729649,-123.1348732,Fairview
+2678,La Tortilleria,fast_food,49.2727636,-123.1354257,Fairview
+2679,Phoenix Fast Food,fast_food,49.2727181,-123.1352635,Fairview
+2680,OMI Teriyaki & Sushi,fast_food,49.2727426,-123.1352218,Fairview
+2681,Curry 2 U,fast_food,49.272775,-123.1351615,Fairview
+2682,Celine's Fish & Chips,fast_food,49.2728161,-123.1350944,Fairview
+2683,à la mode,cafe,49.2724188,-123.134633,Fairview
+2685,Kafka,cafe,49.2671474,-123.0903903,Strathcona
+2689,Starbucks,cafe,49.2843874,-123.1086358,Downtown
+2690,Triple-O's,fast_food,49.2106799,-123.1028104,Sunset
+2691,Pallet Coffee Roasters,cafe,49.2515901,-123.1272753,South Cambie
+2693,D'oro Gelato e Caffè,ice_cream,49.2861582,-123.1274973,West End
+2694,The Spot Cafe,cafe,49.291492,-123.1356594,West End
+2696,Subway,fast_food,49.2887314,-123.1281326,West End
+2697,Take Five Café,cafe,49.2903172,-123.12894,Downtown
+2703,Subway,fast_food,49.2797668,-123.1304883,West End
+2706,Starbucks,cafe,49.2811335,-123.073946,Grandview-Woodland
+2707,Casa Del Caffe,cafe,49.282078,-123.0815368,Strathcona
+2711,Pizza Garden,fast_food,49.2750854,-123.0693141,Grandview-Woodland
+2712,Bean Brothers Cafe Bistro,cafe,49.2347042,-123.157248,Arbutus-Ridge
+2729,Wally's Burgers,fast_food,49.2253352,-123.0535075,Victoria-Fraserview
+2733,International Food Court,food_court,49.2853917,-123.1173168,Downtown
+2736,Tim Hortons,cafe,49.2811807,-123.1242771,Downtown
+2737,Cafe Bellagio,cafe,49.283029,-123.121574,Downtown
+2738,VanCity Pizza,fast_food,49.2812711,-123.0562223,Hastings-Sunrise
+2741,Artistry Coffee Shop & Bistro,cafe,49.2685244,-123.1709004,Kitsilano
+2745,Joe's Cafe,cafe,49.2740455,-123.0693604,Grandview-Woodland
+2746,Demi Bubble Tea,cafe,49.2696814,-123.0445103,Hastings-Sunrise
+2748,Liberty Bakery,cafe,49.25193,-123.1011606,Riley Park
+2749,Coco et Olive Café,cafe,49.2516862,-123.101184,Riley Park
+2750,Blenz,cafe,49.2476955,-123.1008954,Riley Park
+2751,Continental Coffee,cafe,49.2473125,-123.1013883,Riley Park
+2752,Dragon Ball Tea House,cafe,49.2494619,-123.127949,Shaughnessy
+2754,Tim Hortons,cafe,49.2606832,-123.0332114,Renfrew-Collingwood
+2770,The Pie Shoppe,cafe,49.2848648,-123.0659643,Grandview-Woodland
+2772,Tim Hortons,cafe,49.2255268,-123.1018603,Sunset
+2775,HiFive Chicken 24,fast_food,49.2113079,-123.1018558,Sunset
+2783,,vending_machine,49.2338009,-123.1398592,Kerrisdale
+2784,Best Burrito,fast_food,49.263172,-123.1054328,Mount Pleasant
+2789,Catoro Cafe,cafe,49.262339,-123.0895947,Mount Pleasant
+2790,Dallas Pizza & Souvlaki,fast_food,49.2627558,-123.0904504,Mount Pleasant
+2791,Café Foam,cafe,49.2360504,-123.041102,Renfrew-Collingwood
+2792,McDonald's,fast_food,49.2852884,-123.1390222,West End
+2798,Jazen Tea,cafe,49.22701,-123.1287335,Oakridge
+2803,Chatime,cafe,49.2637917,-123.1400621,Fairview
+2813,Tim Hortons,cafe,49.264044,-123.174166,Kitsilano
+2814,Subway,fast_food,49.2639983,-123.1737583,Kitsilano

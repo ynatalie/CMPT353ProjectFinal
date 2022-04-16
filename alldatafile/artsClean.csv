@@ -1,0 +1,80 @@
+,name,amenity,lat,lon,neighbourhood
+0,Scotiabank Theatre Vancouver,cinema,49.2819978,-123.1243463,Downtown
+1,VPL Fraserview Branch,library,49.2195944,-123.0668488,Victoria-Fraserview
+8,Goldcorp Centre for the Arts,cinema,49.2826068,-123.108081,Downtown
+16,The Post at 750,arts_centre,49.2787749,-123.1146836,Downtown
+17,Firehall Branch,library,49.2628124,-123.1375056,Fairview
+19,Cineplex Cinemas Marine Gateway and VIP,cinema,49.2098186,-123.1157123,Marpole
+28,Vancouver Public Library South Hill Branch,library,49.2294991,-123.0903994,Sunset
+29,Vancouver Public Library - nə́c̓aʔmat ct Strathcona Branch,library,49.2809809,-123.0888583,Strathcona
+30,Vancouver Public Library Kerrisdale Branch,library,49.2332919,-123.1561315,Kerrisdale
+31,Community Book Exchange,public_bookcase,49.2737741,-123.0521883,Hastings-Sunrise
+33,chART Public Art Marpole,public_bookcase,49.2070741,-123.1342324,Marpole
+38,The Park Theatre,cinema,49.2544714,-123.1149885,Riley Park
+39,Vancouver International Film Centre,cinema,49.2770164,-123.1248993,Downtown
+40,Mount Pleasant Branch,library,49.2642773,-123.100343,Mount Pleasant
+42,Arts Umbrella,arts_centre,49.2695808,-123.1332986,Fairview
+43,VPL Britannia Branch,library,49.2749646,-123.0707081,Grandview-Woodland
+44,VPL Kensington Branch,library,49.2491218,-123.0756558,Kensington-Cedar Cottage
+47,VPL Terry Salman Branch,library,49.2440111,-123.1081716,Riley Park
+48,VPL Joe Fortes Branch,library,49.2905053,-123.13656,West End
+49,Contemporary Art Gallery,arts_centre,49.2782799,-123.1211851,Downtown
+50,Hastings Branch,library,49.2808807,-123.0501855,Hastings-Sunrise
+51,Vancouver Public Library - Champlain Heights,library,49.2189889,-123.039568,Killarney
+52,VPL Marpole Branch,library,49.2103246,-123.1402111,Marpole
+55,,public_bookcase,49.2747401,-123.0677071,Grandview-Woodland
+60,VPL Carnegie Branch,library,49.281056,-123.1000064,Downtown
+67,Little Free Library,public_bookcase,49.2547493,-123.0710983,Kensington-Cedar Cottage
+68,Ladybug Community Little Library,public_bookcase,49.2633618,-123.070821,Grandview-Woodland
+71,FlyOver Canada,cinema,49.2891958,-123.110351,Downtown
+74,The Cinematheque,cinema,49.2786691,-123.1264603,Downtown
+75,VPL Kitsilano Branch,library,49.2647206,-123.1687156,Kitsilano
+85,Multimedia Library AFV,library,49.2287379,-123.1168697,Oakridge
+88,Little Free Library #5269,public_bookcase,49.2452495,-123.1039359,Riley Park
+89,Little Free Library #31614,public_bookcase,49.2396371,-123.0972162,Riley Park
+90,Little Free Library #48345,public_bookcase,49.2464056,-123.0967476,Riley Park
+91,Little Free Library #1337,public_bookcase,49.2475796,-123.0930575,Riley Park
+96,,public_bookcase,49.2540229,-123.1222506,South Cambie
+97,,public_bookcase,49.2561999,-123.1216211,South Cambie
+98,Little Free Library #88728,public_bookcase,49.2585578,-123.1201692,Fairview
+99,Little Free Library #96576,public_bookcase,49.2571359,-123.1235457,Fairview
+100,,public_bookcase,49.257906,-123.1290743,Fairview
+101,Little Free Library #25331,public_bookcase,49.2592457,-123.1571782,Kitsilano
+102,,public_bookcase,49.260591,-123.1783927,Kitsilano
+103,,public_bookcase,49.2674978,-123.1644463,Kitsilano
+104,Book exchange box,public_bookcase,49.2471425,-123.1026354,Riley Park
+105,Little Free Library #5665,public_bookcase,49.2453415,-123.0997972,Riley Park
+106,Little Free Library #96166,public_bookcase,49.2464573,-123.1076136,Riley Park
+107,Little Free Library #82540,public_bookcase,49.2341134,-123.1294627,Shaughnessy
+108,Little Free Library #27003,public_bookcase,49.2294397,-123.1436599,Kerrisdale
+109,Book exchange box,public_bookcase,49.2290431,-123.1555711,Kerrisdale
+110,,public_bookcase,49.2360291,-123.1786182,Dunbar-Southlands
+111,Little Free Library #10606,public_bookcase,49.2302178,-123.1588091,Kerrisdale
+112,Book exchange box,public_bookcase,49.2329273,-123.1787923,Dunbar-Southlands
+113,Little Free Library #86493,public_bookcase,49.250178,-123.1757774,Dunbar-Southlands
+114,Little Free Library #33839,public_bookcase,49.2529273,-123.1755979,Dunbar-Southlands
+115,,public_bookcase,49.2604826,-123.1718634,Kitsilano
+116,,public_bookcase,49.2605546,-123.1765381,Kitsilano
+121,,public_bookcase,49.2792085,-123.0791098,Strathcona
+122,Book and toy exchange,public_bookcase,49.2669858,-123.0734408,Grandview-Woodland
+123,Little Free Library #6034,public_bookcase,49.2641141,-123.0756448,Grandview-Woodland
+124,Book exchange box,public_bookcase,49.2576441,-123.0689615,Kensington-Cedar Cottage
+125,Findlay Street book exchange,public_bookcase,49.2555434,-123.0678513,Kensington-Cedar Cottage
+126,Welwyn book exchange,public_bookcase,49.2450487,-123.0700864,Kensington-Cedar Cottage
+127,Book exchange,public_bookcase,49.2513851,-123.0681184,Kensington-Cedar Cottage
+128,Little Free Library #81867,public_bookcase,49.2420287,-123.0641159,Kensington-Cedar Cottage
+129,Book exchange box,public_bookcase,49.2650791,-123.0622841,Grandview-Woodland
+130,Aurora Digitalis,arts_centre,49.2667256,-123.0967646,Mount Pleasant
+131,Hfour,arts_centre,49.2666976,-123.096711,Mount Pleasant
+132,,public_bookcase,49.2791453,-123.0372656,Hastings-Sunrise
+133,,public_bookcase,49.2791589,-123.0393741,Hastings-Sunrise
+134,,public_bookcase,49.2804084,-123.0393883,Hastings-Sunrise
+139,,public_bookcase,49.2457693,-123.0941974,Riley Park
+140,,public_bookcase,49.2366301,-123.0684108,Kensington-Cedar Cottage
+141,Free art exchange,public_bookcase,49.2384217,-123.0714449,Kensington-Cedar Cottage
+142,Little Free Library #23317,public_bookcase,49.2396393,-123.0879824,Kensington-Cedar Cottage
+143,,public_bookcase,49.2402161,-123.0698025,Kensington-Cedar Cottage
+144,,public_bookcase,49.2212702,-123.0830134,Sunset
+145,,public_bookcase,49.2728995,-123.057124,Grandview-Woodland
+146,,public_bookcase,49.2730536,-123.0617782,Grandview-Woodland
+147,Vancouver Public Library Oakridge Branch,library,49.2310395,-123.1185745,Oakridge

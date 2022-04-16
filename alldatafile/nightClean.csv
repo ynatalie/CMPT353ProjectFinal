@@ -1,0 +1,180 @@
+,name,amenity,lat,lon,neighbourhood
+0,The Cambie,pub,49.2831924,-123.1090499,Downtown
+4,Faculty Brewing,bar,49.268662,-123.1045109,Mount Pleasant
+5,R & B Ale & Pizza House,pub,49.2672519,-123.1033949,Mount Pleasant
+6,Back and Forth Bar,bar,49.2821955,-123.1024011,Downtown
+7,131 Water Kitchen & Bar,bar,49.284169,-123.1073434,Downtown
+8,Shenanigans,pub,49.2866559,-123.1274985,West End
+9,The Wicklow Pub,pub,49.2687109,-123.1186399,Fairview
+10,Callister Tasting Room,bar,49.2821452,-123.0762115,Grandview-Woodland
+11,Powell Brewery Tasting Room,bar,49.2833626,-123.0757512,Grandview-Woodland
+12,Strange Fellows Tasting Room,bar,49.2724958,-123.0777288,Strathcona
+13,Dublin Crossing Irish Pub,pub,49.2094419,-123.1161616,Marpole
+14,Alibi Room,pub,49.2842068,-123.1002041,Downtown
+16,Privé,nightclub,49.2753913,-123.1096402,Downtown
+21,East Side Craft House,pub,49.2329149,-123.0761197,Kensington-Cedar Cottage
+22,,pub,49.2632663,-123.110529,Mount Pleasant
+37,Shiny Tea,bar,49.2802068,-123.1068483,Downtown
+39,Off The Rail Tasting Room,bar,49.2777606,-123.0760415,Grandview-Woodland
+40,Bomber Tasting Room,bar,49.2774745,-123.0745168,Grandview-Woodland
+42,The Wine Bar,bar,49.2733358,-123.1195188,Downtown
+44,Princeton Pub,pub,49.2849397,-123.0649633,Grandview-Woodland
+46,Pourhouse,pub,49.2841314,-123.1083829,Downtown
+50,Cecil Bar,bar,49.2756868,-123.1281101,Downtown
+51,Soho,bar,49.2741305,-123.1241126,Downtown
+52,Yaletown Distilling Company,bar,49.2753903,-123.1216407,Downtown
+53,The Distillery Bar,bar,49.2752508,-123.1212681,Downtown
+55,The Cascade,bar,49.2616715,-123.1007497,Mount Pleasant
+59,Gringo,bar,49.2832515,-123.105379,Downtown
+61,Dubh Linn Gate,pub,49.2714968,-123.1006411,Mount Pleasant
+80,Tap & Barrel,pub,49.2898003,-123.1168924,Downtown
+82,Johnnie Fox's,bar,49.2790349,-123.1235947,Downtown
+92,Prohibition,bar,49.2837396,-123.1184966,Downtown
+97,The Shameful Tiki,bar,49.2468517,-123.1009139,Riley Park
+98,Hollywood North,bar,49.2799921,-123.1197031,Downtown
+99,Dogwood Lounge,bar,49.2098852,-123.0817139,Sunset
+100,Cinema Public House,pub,49.2803131,-123.1216797,Downtown
+101,Playhouse Nightclub,nightclub,49.2801451,-123.1313539,West End
+102,Celebrities,nightclub,49.2793851,-123.1299155,West End
+103,Railway Club,bar,49.2829389,-123.115118,Downtown
+105,Yale Hotel,pub,49.2759064,-123.1278016,Downtown
+107,PressBox Pub,pub,49.2813339,-123.0454428,Hastings-Sunrise
+108,Luppolo Tasting Room,bar,49.2769121,-123.0805868,Strathcona
+111,Uva,bar,49.279512,-123.1204403,Downtown
+112,Big Rock Urban Eatery,pub,49.267356,-123.1110469,Mount Pleasant
+113,Fayuca,bar,49.2767582,-123.1201461,Downtown
+116,The Portside Pub,pub,49.2835624,-123.1038811,Downtown
+117,Tap & Barrel,pub,49.2717552,-123.1060666,Mount Pleasant
+123,The Belmont,bar,49.2790584,-123.1230287,Downtown
+124,Aura,nightclub,49.2772912,-123.1257259,Downtown
+125,Corduroy,pub,49.2725892,-123.1487921,Kitsilano
+126,Steamworks,pub,49.2848692,-123.1109875,Downtown
+128,Local Public Eatery,pub,49.272446,-123.1553117,Kitsilano
+129,The Ellis,pub,49.2716021,-123.155352,Kitsilano
+130,Bottleneck,nightclub,49.2805575,-123.1207988,Downtown
+134,Donnelan's,pub,49.2782909,-123.1241919,Downtown
+136,The Magnet,pub,49.2824055,-123.1111441,Downtown
+137,Sylvia's Bar,bar,49.2885782,-123.1426441,West End
+138,Fringe,pub,49.26404,-123.174703,Kitsilano
+139,Yagger's Kits,pub,49.2639533,-123.1696182,Kitsilano
+140,Relish,pub,49.2802411,-123.1250614,Downtown
+141,Library Square Public House,pub,49.2800328,-123.1146849,Downtown
+142,Colony,bar,49.2590227,-123.1008347,Mount Pleasant
+143,Chewies,pub,49.270944,-123.1552107,Kitsilano
+145,The Regal Beagle,pub,49.2640449,-123.1567706,Kitsilano
+146,Truck Stop Diner,pub,49.2688201,-123.0967506,Strathcona
+147,Shebeen Whiskey House,bar,49.2828822,-123.1037866,Downtown
+148,Irish Heather,pub,49.2828919,-123.1040897,Downtown
+149,Encore,nightclub,49.2785234,-123.1238494,Downtown
+150,Yagger's,bar,49.283201,-123.1123664,Downtown
+151,Brewhall,pub,49.2694368,-123.103525,Mount Pleasant
+152,The Pint,pub,49.2812723,-123.1077237,Downtown
+153,The Bourbon,nightclub,49.2826091,-123.1057991,Downtown
+155,Blackbird,pub,49.2851463,-123.1184912,Downtown
+156,Storm Crow Tavern,bar,49.2728332,-123.069737,Grandview-Woodland
+159,Red Accordion,pub,49.2902748,-123.1317492,West End
+160,The Morrissey,bar,49.2768995,-123.1268568,Downtown
+161,Moose's Down Under,pub,49.2855675,-123.1165611,Downtown
+162,The Capital,bar,49.2814237,-123.1330616,West End
+163,Portland Craft,bar,49.2506841,-123.1012022,Riley Park
+164,Off the tracks bar & bistro,pub,49.2702595,-123.1340523,Fairview
+166,The Lamplighter Public House,pub,49.2837114,-123.106243,Downtown
+170,Lions Pub,pub,49.2869412,-123.1148363,Downtown
+172,Kino Cafe Flamenco Tapas Bar,bar,49.2543533,-123.1149873,Riley Park
+173,Biercraft,pub,49.2558057,-123.1153793,South Cambie
+184,The Penthouse,nightclub,49.2784275,-123.1225756,Downtown
+185,Guu Davie,pub,49.2822628,-123.1337681,West End
+186,Score,bar,49.2823322,-123.1345615,West End
+187,Commodore Ballroom,nightclub,49.2805916,-123.1207429,Downtown
+188,The Dime,pub,49.2707953,-123.0697877,Grandview-Woodland
+189,Five Point,pub,49.2571036,-123.1008894,Mount Pleasant
+190,The Ivanhoe,pub,49.2750615,-123.0996424,Strathcona
+192,London Pub,pub,49.278388,-123.099578,Strathcona
+194,The Whip,bar,49.2655902,-123.1003893,Mount Pleasant
+197,Devil's Elbow,bar,49.2802664,-123.1097483,Downtown
+198,The Black Frog,pub,49.2845626,-123.1084807,Downtown
+200,Park Drive,bar,49.2683984,-123.0698801,Grandview-Woodland
+201,Falconetti's,pub,49.2684563,-123.0694073,Grandview-Woodland
+202,St Augustine's,pub,49.2637854,-123.0695196,Grandview-Woodland
+204,,pub,49.2037034,-123.1334192,Marpole
+206,12 Kings Pub,pub,49.2603011,-123.0966837,Mount Pleasant
+207,The Hastings Warehouse,pub,49.2821875,-123.1090478,Downtown
+208,Malone's,pub,49.2840215,-123.1141074,Downtown
+209,Electric Bicycle Brewing,bar,49.2672724,-123.1042375,Mount Pleasant
+211,Sidecar,pub,49.277605,-123.1257615,Downtown
+212,Cabana,bar,49.2776684,-123.1256767,Downtown
+213,Backstage Lounge,nightclub,49.2723207,-123.1342258,Fairview
+221,Johnnie Fox's Irish Snug,pub,49.2789342,-123.1237243,Downtown
+222,Shamrock Alley,bar,49.2873462,-123.141531,West End
+223,Pat's Pub,pub,49.281417,-123.0949933,Strathcona
+224,The Diamond,bar,49.2831604,-123.1040262,Downtown
+225,Six Acres,pub,49.2833904,-123.1044226,Downtown
+230,The Liberty Distillery,bar,49.2704154,-123.1346411,Fairview
+232,Resurrection Distillery and Lounge,bar,49.2820577,-123.0709121,Grandview-Woodland
+233,Finfolk,pub,49.2820425,-123.0723691,Grandview-Woodland
+234,Carlos O`Bryan's Neighborhood Pub,pub,49.2653352,-123.1453811,Fairview
+235,Browns Crafthouse,pub,49.2838402,-123.1138503,Downtown
+236,Parallel 49 Tasting Room & Beer Store,bar,49.2837876,-123.0641858,Grandview-Woodland
+237,Parallel 49 Street Kitchen,pub,49.2837887,-123.0643214,Grandview-Woodland
+239,The Junction,bar,49.2807293,-123.1323456,West End
+243,The Three Brits Public House,pub,49.2870731,-123.1418005,West End
+244,The Moose,pub,49.2794324,-123.1235884,Downtown
+245,Guilt & Co,pub,49.2836569,-123.1041219,Downtown
+246,No. 5 Orange,bar,49.2830338,-123.0998209,Downtown
+248,1181,bar,49.281603,-123.1328977,West End
+249,Pumpjack,bar,49.2814951,-123.1327426,West End
+251,Browns Social House,pub,49.2797733,-123.1130766,Downtown
+252,Yaletown Brewing Company,pub,49.2754345,-123.1209961,Downtown
+253,Bayside Lounge,bar,49.2872658,-123.1415278,West End
+258,The Den,bar,49.2874645,-123.1295818,West End
+259,Dublin Calling,pub,49.2801019,-123.1213535,Downtown
+260,Ventura Room,bar,49.2796906,-123.1130707,Downtown
+261,Red Racer Taphouse,pub,49.2769066,-123.1154049,Downtown
+262,Uncle Abe's,bar,49.2581178,-123.1009494,Mount Pleasant
+263,The Emerald,bar,49.2801961,-123.0974652,Strathcona
+270,Wise Club & Hall,pub,49.2772898,-123.0660472,Grandview-Woodland
+271,Cedar Cottage Pub,pub,49.2513484,-123.0777934,Kensington-Cedar Cottage
+272,Darby's,pub,49.2814612,-123.1051707,Downtown
+274,Biltmore Cabaret,bar,49.2603834,-123.096422,Mount Pleasant
+284,Red Card Sports Bar + Eatery,bar,49.2793791,-123.120222,Downtown
+285,Metropole,bar,49.2825107,-123.1068062,Downtown
+286,Grand Union Hotel,pub,49.2817874,-123.1067495,Downtown
+287,Main Street Tasting Lounge,bar,49.2646995,-123.0994151,Mount Pleasant
+291,Red Room,bar,49.2842279,-123.1113795,Downtown
+292,Twelve West,bar,49.2770411,-123.1266332,Downtown
+293,Milestones,pub,49.2639564,-123.1152029,Fairview
+294,Kingston,pub,49.280708,-123.1172196,Downtown
+295,Fountainhead Pub,pub,49.279654,-123.12973,West End
+297,The Brighton,bar,49.2812751,-123.0551908,Hastings-Sunrise
+299,Bismarck,bar,49.2804152,-123.1074119,Downtown
+300,Caffe Barney,bar,49.2592073,-123.1389048,Fairview
+303,Andina Tasting Lounge,pub,49.2834684,-123.0736709,Grandview-Woodland
+308,Pub 340,bar,49.2828092,-123.1092642,Downtown
+309,The Narrow Lounge,pub,49.2683292,-123.1003762,Mount Pleasant
+310,Two Parrots,bar,49.2769507,-123.1261599,Downtown
+313,Ballyhoo Public House,pub,49.2822225,-123.1241191,Downtown
+315,Granville Island Brewing Taproom,pub,49.2705549,-123.1356713,Fairview
+316,Blarney Stone,pub,49.2827946,-123.1041486,Downtown
+317,The New Oxford,bar,49.2757085,-123.1222873,Downtown
+318,The Keefer,bar,49.2796198,-123.1013261,Downtown
+321,The Wolf and Hound,pub,49.2644903,-123.1842004,Kitsilano
+322,Manchester Public Eatery,pub,49.2639431,-123.1492041,Kitsilano
+323,Lennox Pub,pub,49.281145,-123.119819,Downtown
+325,Russel Brewing Company,pub,49.2642338,-123.1725691,Kitsilano
+326,Storm Crow Alehouse,pub,49.2638288,-123.1416759,Fairview
+328,Grain Tasting Bar,bar,49.2852025,-123.1203437,Downtown
+332,Craft Restaurant & Bar,pub,49.2705733,-123.1063824,Mount Pleasant
+335,Numbers,bar,49.2796989,-123.1303992,West End
+338,The Union,pub,49.2777673,-123.0989237,Strathcona
+340,Casino Slots & Gaming Floor at Hastings Racecourse,casino,49.2855421,-123.0401982,Hastings-Sunrise
+343,One Under Vancouver,bar,49.2847445,-123.114506,Downtown
+344,TAP shack Eatery,bar,49.2897968,-123.1212582,Downtown
+345,33 Brewing Experiment,bar,49.2639071,-123.1055201,Mount Pleasant
+346,33 Acres Brewing,bar,49.2639071,-123.1053136,Mount Pleasant
+349,Oscar's Pub,pub,49.2809539,-123.023841,Hastings-Sunrise
+356,The Beaver Taphouse,pub,49.2789269,-123.1231338,Downtown
+357,Brickhouse,pub,49.2780156,-123.0995912,Strathcona
+363,La Boqueria,bar,49.2804447,-123.0976766,Strathcona
+367,Darby's Public House & Liqour Store,pub,49.2682508,-123.1686006,Kitsilano
+370,Brassneck Tasting Room,bar,49.2658067,-123.1005698,Mount Pleasant
+371,Slow Hand Tasting Room,bar,49.2842649,-123.0672525,Grandview-Woodland
